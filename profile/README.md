@@ -55,7 +55,13 @@ If you are not able to see our projects, it means that you are not part of the d
   <img align="center" alt="Dev" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Dev" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-original.svg">
     <img align="center" alt="Dev" height="30" width="30" src="https://github.com/alexsantos0992/alexsantos0992/blob/main/assets/images/IntelliJ_IDEA_Edu_Icon.svg.png?raw=true">
-    
+  <br>
+  <img align="center" alt="Dev-HTML" height="35" width="224" src="https://github.com/alexsantos0992/alexsantos0992/blob/main/assets/images/1.png?raw=true">
+  <img align="center" alt="Dev-HTML" height="35" width="224" src="https://github.com/alexsantos0992/alexsantos0992/blob/main/assets/images/2.png?raw=true">
+  <img align="center" alt="Dev-HTML" height="35" width="224" src="https://github.com/alexsantos0992/alexsantos0992/blob/main/assets/images/3.png?raw=true">
+  <img align="center" alt="Dev-HTML" height="35" width="224" src="https://github.com/alexsantos0992/alexsantos0992/blob/main/assets/images/4.png?raw=true">
+  <img align="center" alt="Dev-HTML" height="35" width="149" src="https://github.com/alexsantos0992/alexsantos0992/blob/main/assets/images/5.png?raw=true">
+  
 <div style="display: inline_block"><br>
   
   ![Snake animation](https://github.com/alexsantos0992/alexsantos0992/blob/main/assets/images/github-contribution-grid-snake.svg)
