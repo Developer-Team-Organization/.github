@@ -1,1 +1,1 @@
-# .github
+# Developer Team Repository
