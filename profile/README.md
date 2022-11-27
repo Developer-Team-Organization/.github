@@ -61,5 +61,3 @@ If you are not able to see our projects, it means that you are not part of the d
   ![Snake animation](https://github.com/alexsantos0992/alexsantos0992/blob/main/assets/images/github-contribution-grid-snake.svg)
  
 </div>
-<img align="center" alt="Js" height="5" width="1920" src="https://github.com/alexsantos0992/alexsantos0992/blob/main/assets/images/0.png">
-    </div>
