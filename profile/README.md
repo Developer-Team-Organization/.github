@@ -78,15 +78,10 @@ If you are not able to see our projects, it means that you are not part of the d
 <br>
 <p align="center">For more access information, contact us.</p>
 
-<div style="display: inline_block" align="center">
 <a href="https://linktr.ee/DeveloperTeam" target="_blank"><img src="https://d1fdloi71mui9q.cloudfront.net/CgXpaWM2QiCe2NZ2ljzI_K188i9s3WG62EOha" target="_blank" align="center"></a>
-  </div>
-
-</div></p> 
-
-![zy4qJ6V](https://user-images.githubusercontent.com/8391493/204165880-b44625eb-63cc-43fc-bcf8-4949dfda75dd.gif)
+</div></p>
   
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   
   ![Snake animation](https://github.com/alexsantos0992/alexsantos0992/blob/main/assets/images/github-contribution-grid-snake.svg)
  
