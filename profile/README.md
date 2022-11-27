@@ -1,14 +1,11 @@
-## Developer Team Repository :coffee:
-<div><p align="center">
-If you are not able to see our projects, it means that you are not part of the developer team.</p>
-<p align="center">Only Developer Team members have access to our repositories.</p>
-
-</div></p>
-
 <div style="display: inline_block" align="center">
-<a href="https://linktr.ee/DeveloperTeam" target="_blank"><img src="https://d1fdloi71mui9q.cloudfront.net/CgXpaWM2QiCe2NZ2ljzI_K188i9s3WG62EOha" target="_blank" align="center"></a>
+<a href="https://www.l2jbrasil.com/clubs/page/1-conte%C3%BAdo-developer-team/" target="_blank"><img src="https://user-images.githubusercontent.com/8391493/204165669-797812a0-352c-48c3-9a81-28434c99fb4a.gif" target="_blank" align="center"></a>
   </div>
+  
+# <p align="center">Welcome to the Developer Team's Github! :coffee: </p>
 
+  <h3><p align="center">Currently, the Developer Team has more than 400 projects developed for different types of systems, platforms and games.</p></h3>
+  
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Dev-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
   <img align="center" alt="Dev-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
@@ -61,6 +58,33 @@ If you are not able to see our projects, it means that you are not part of the d
   <img align="center" alt="Dev-HTML" height="35" width="224" src="https://github.com/alexsantos0992/alexsantos0992/blob/main/assets/images/3.png?raw=true">
   <img align="center" alt="Dev-HTML" height="35" width="224" src="https://github.com/alexsantos0992/alexsantos0992/blob/main/assets/images/4.png?raw=true">
   <img align="center" alt="Dev-HTML" height="35" width="149" src="https://github.com/alexsantos0992/alexsantos0992/blob/main/assets/images/5.png?raw=true">
+      
+<div><h3><p align="center"><strong>
+If you are not able to see our projects, it means that you are not part of the developer team.</strong></p></h3>
+<p align="center">Only team members and authorized users can have access to all our repositories.</p>
+<p align="center">If you are not part of the Developer Team and are not an authorized user, then you will not have access to all our projects.</p>
+<br><br>
+<h3><p align="center">To have access to all our projects and developments there are two ways:</p></h3>
+
+
+<ul>
+<li>
+<span style="color:#F44336;"><span><strong>Be a member of the Developer Team;</strong></span></span>
+</li>
+<li>
+<span style="color:#F44336;"><span style="font-size:18px;"><strong>Be a licensed user;</strong></span></span>
+</li>
+</ul>
+<br>
+<p align="center">For more access information, contact us.</p>
+
+<div style="display: inline_block" align="center">
+<a href="https://linktr.ee/DeveloperTeam" target="_blank"><img src="https://d1fdloi71mui9q.cloudfront.net/CgXpaWM2QiCe2NZ2ljzI_K188i9s3WG62EOha" target="_blank" align="center"></a>
+  </div>
+
+</div></p> 
+
+![zy4qJ6V](https://user-images.githubusercontent.com/8391493/204165880-b44625eb-63cc-43fc-bcf8-4949dfda75dd.gif)
   
 <div style="display: inline_block"><br>
   
