@@ -5,6 +5,10 @@ If you are not able to see our projects, it means that you are not part of the d
 
 </div></p>
 
+<div style="display: inline_block" align="center">
+<a href="https://linktr.ee/DeveloperTeam" target="_blank"><img src="https://d1fdloi71mui9q.cloudfront.net/CgXpaWM2QiCe2NZ2ljzI_K188i9s3WG62EOha" target="_blank" align="center"></a>
+  </div>
+
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Dev-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
   <img align="center" alt="Dev-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
