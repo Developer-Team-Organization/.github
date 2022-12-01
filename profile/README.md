@@ -9,13 +9,13 @@
   <img align="center" alt="Js" height="5" width="1920" src="https://github.com/alexsantos0992/alexsantos0992/blob/main/assets/images/0.png">
 <a href=https://github.com/Developer-Team-Organization target="_blank"><img src="https://user-images.githubusercontent.com/8391493/204972948-b2a9f8d1-d038-4ace-bc5a-83832f039ef8.gif" target="_blank" align="center"></a>
 
-<a href="https://github.com/Cr1t1caLL" target="_blank"><img align="center" alt="DevTeam" height="120" width="120" src="https://user-images.githubusercontent.com/8391493/204973472-bbb46225-fc40-4442-a2ae-b1c82be6d696.png"></a>
-<a href="https://github.com/ExyDeveloper" target="_blank"><img align="center" alt="DevTeam" height="120" width="120" src="https://user-images.githubusercontent.com/8391493/204973460-683b2cb7-84a5-4b6a-9a77-cf184f9e88b9.png"></a>
-<a href="https://github.com/alexsantos0992" target="_blank"><img align="center" alt="DevTeam" height="120" width="120" src="https://user-images.githubusercontent.com/8391493/204973466-fe478062-82f9-4e08-b7d6-0f3e8555bef7.png"></a>
-<a href="https://github.com/Z3r0D3v" target="_blank"><img align="center" alt="DevTeam" height="120" width="120" src="https://user-images.githubusercontent.com/8391493/204973474-5c7fe5d7-8975-48c4-a0ed-f00d51aa670a.png"></a>
-<a href="https://github.com/ByObservator" target="_blank"><img align="center" alt="DevTeam" height="120" width="120" src="https://user-images.githubusercontent.com/8391493/204973464-8e2f4986-c2ef-4be5-a3e5-53450a74539c.png"></a>
-<a href="https://github.com/DevCodeSync" target="_blank"><img align="center" alt="DevTeam" height="120" width="120" src="https://user-images.githubusercontent.com/8391493/204973470-f805e10b-09db-4d38-8081-49073cf54680.png"></a>
-<a href="https://github.com/ChronoByteDeveloper" target="_blank"><img align="center" alt="DevTeam" height="120" width="120" src="https://user-images.githubusercontent.com/8391493/204973469-6aaf80c5-ff53-4d36-9ac5-66db37c7a3bc.png"></a><br><br>
+<a href="https://github.com/Cr1t1caLL" target="_blank"><img align="center" alt="DevTeam" height="115" width="115" src="https://user-images.githubusercontent.com/8391493/204973472-bbb46225-fc40-4442-a2ae-b1c82be6d696.png"></a>
+<a href="https://github.com/ExyDeveloper" target="_blank"><img align="center" alt="DevTeam" height="115" width="115" src="https://user-images.githubusercontent.com/8391493/204973460-683b2cb7-84a5-4b6a-9a77-cf184f9e88b9.png"></a>
+<a href="https://github.com/alexsantos0992" target="_blank"><img align="center" alt="DevTeam" height="115" width="115" src="https://user-images.githubusercontent.com/8391493/204973466-fe478062-82f9-4e08-b7d6-0f3e8555bef7.png"></a>
+<a href="https://github.com/Z3r0D3v" target="_blank"><img align="center" alt="DevTeam" height="115" width="115" src="https://user-images.githubusercontent.com/8391493/204973474-5c7fe5d7-8975-48c4-a0ed-f00d51aa670a.png"></a>
+<a href="https://github.com/ByObservator" target="_blank"><img align="center" alt="DevTeam" height="115" width="115" src="https://user-images.githubusercontent.com/8391493/204973464-8e2f4986-c2ef-4be5-a3e5-53450a74539c.png"></a>
+<a href="https://github.com/DevCodeSync" target="_blank"><img align="center" alt="DevTeam" height="115" width="115" src="https://user-images.githubusercontent.com/8391493/204973470-f805e10b-09db-4d38-8081-49073cf54680.png"></a>
+<a href="https://github.com/ChronoByteDeveloper" target="_blank"><img align="center" alt="DevTeam" height="115" width="115" src="https://user-images.githubusercontent.com/8391493/204973469-6aaf80c5-ff53-4d36-9ac5-66db37c7a3bc.png"></a><br><br>
 <img align="center" alt="Js" height="5" width="1920" src="https://github.com/alexsantos0992/alexsantos0992/blob/main/assets/images/0.png">
 </div>  
   
