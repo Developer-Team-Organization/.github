@@ -7,7 +7,7 @@
   <h3><p align="center">Currently, the Developer Team has more than 400 projects developed for different types of systems, platforms and games.</p></h3>
   <div style="display: inline_block" align="center">
   <img align="center" alt="Js" height="5" width="1920" src="https://github.com/alexsantos0992/alexsantos0992/blob/main/assets/images/0.png">
-<a href=https://github.com/Developer-Team-Organization" target="_blank"><img src="https://user-images.githubusercontent.com/8391493/204972948-b2a9f8d1-d038-4ace-bc5a-83832f039ef8.gif" target="_blank" align="center"></a>
+<a href=https://github.com/Developer-Team-Organization target="_blank"><img src="https://user-images.githubusercontent.com/8391493/204972948-b2a9f8d1-d038-4ace-bc5a-83832f039ef8.gif" target="_blank" align="center"></a>
 
 <a href="https://github.com/Cr1t1caLL" target="_blank"><img align="center" alt="DevTeam" height="140" width="140" src="https://user-images.githubusercontent.com/8391493/204973472-bbb46225-fc40-4442-a2ae-b1c82be6d696.png"></a>
 <a href="https://github.com/ExyDeveloper" target="_blank"><img align="center" alt="DevTeam" height="140" width="140" src="https://user-images.githubusercontent.com/8391493/204973460-683b2cb7-84a5-4b6a-9a77-cf184f9e88b9.png"></a>
