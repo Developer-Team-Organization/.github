@@ -3,7 +3,9 @@
   </div>
   
 # <p align="center">Welcome to the Developer Team's Github! :coffee: </p>
-
+<div style="display: inline_block" align="center">
+  <img align="center" alt="Js" height="300" width="300" src="https://user-images.githubusercontent.com/8391493/205162087-95278d49-79de-4ff9-bfdf-1e7fcb682efc.gif">
+  
   <h3><p align="center">Currently, the Developer Team has more than 400 projects developed for different types of systems, platforms and games.</p></h3>
   <div style="display: inline_block" align="center">
   <img align="center" alt="Js" height="5" width="1920" src="https://github.com/alexsantos0992/alexsantos0992/blob/main/assets/images/0.png">
