@@ -20,8 +20,13 @@
 <a href="https://github.com/DevCodeSync" target="_blank"><img align="center" alt="DevTeam" height="115" width="115" src="https://user-images.githubusercontent.com/8391493/204973470-f805e10b-09db-4d38-8081-49073cf54680.png"></a>
 <a href="https://github.com/ChronoByteDeveloper" target="_blank"><img align="center" alt="DevTeam" height="115" width="115" src="https://user-images.githubusercontent.com/8391493/204973469-6aaf80c5-ff53-4d36-9ac5-66db37c7a3bc.png"></a><br><br>
 <img align="center" alt="Js" height="5" width="1920" src="https://github.com/alexsantos0992/alexsantos0992/blob/main/assets/images/0.png">
-</div>  
-  
+<a href=https://github.com/Developer-Team-Organization target="_blank"><img src="https://user-images.githubusercontent.com/118836061/205463776-a153c6fb-84d8-4eba-8be6-472b7932039b.gif" target="_blank" align="center"></a><br>
+<a href="https://virtuz.dev.br/" target="_blank"><img align="center" alt="DevTeam" height="95" width="285" src="https://user-images.githubusercontent.com/118836061/205463396-fd24e66e-ad92-470f-99c7-c5aba63d92f2.png"></a>
+<a href="https://projectoasis.io/" target="_blank"><img align="center" alt="DevTeam" height="95" width="134" src="https://user-images.githubusercontent.com/118836061/205464409-9c64b503-1821-46c0-89fa-96dfeb4f3ee3.png"></a><br><br>
+<a href="mailto:costumerhelp@developerteam.com" target="_blank"><img align="center" alt="DevTeam" height="29" width="150" src="https://user-images.githubusercontent.com/118836061/205465228-86beef81-640c-4ac5-9f06-03e4c894c5db.gif"></a><br>
+<img align="center" alt="Js" height="5" width="1920" src="https://github.com/alexsantos0992/alexsantos0992/blob/main/assets/images/0.png">
+</div>
+
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Dev-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
   <img align="center" alt="Dev-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
