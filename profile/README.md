@@ -1,7 +1,6 @@
 <div style="display: inline_block" align="center"><br>
 <a href="https://www.l2jbrasil.com/clubs/page/1-conte%C3%BAdo-developer-team/" target="_blank"><img src="https://user-images.githubusercontent.com/118836061/205467140-f53af655-ded2-41f8-9d70-09fcc32737a4.gif" target="_blank" align="center"></a>
 </div>
-<br><br>
 
 # <p align="center">Welcome to the Developer Team's Github! :coffee: </p>
 
