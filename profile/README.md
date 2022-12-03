@@ -1,7 +1,8 @@
-<div style="display: inline_block" align="center">
-<a href="https://www.l2jbrasil.com/clubs/page/1-conte%C3%BAdo-developer-team/" target="_blank"><img src="https://user-images.githubusercontent.com/8391493/204165669-797812a0-352c-48c3-9a81-28434c99fb4a.gif" target="_blank" align="center"></a>
-  </div>
-  
+<div style="display: inline_block" align="center"><br>
+<a href="https://www.l2jbrasil.com/clubs/page/1-conte%C3%BAdo-developer-team/" target="_blank"><img src="https://user-images.githubusercontent.com/118836061/205467140-f53af655-ded2-41f8-9d70-09fcc32737a4.gif" target="_blank" align="center"></a>
+</div>
+<br><br>
+
 # <p align="center">Welcome to the Developer Team's Github! :coffee: </p>
 
 <div style="display: inline_block" align="center">
@@ -79,24 +80,25 @@
   <img align="center" alt="Dev-HTML" height="35" width="224" src="https://github.com/alexsantos0992/alexsantos0992/blob/main/assets/images/3.png?raw=true">
   <img align="center" alt="Dev-HTML" height="35" width="224" src="https://github.com/alexsantos0992/alexsantos0992/blob/main/assets/images/4.png?raw=true">
   <img align="center" alt="Dev-HTML" height="35" width="149" src="https://github.com/alexsantos0992/alexsantos0992/blob/main/assets/images/5.png?raw=true">
+<img align="center" alt="Js" height="5" width="1920" src="https://github.com/alexsantos0992/alexsantos0992/blob/main/assets/images/0.png">
+</div>
       
 <div><h3><p align="center"><strong>
 If you are not able to see our projects, it means that you are not part of the developer team.</strong></p></h3>
 <p align="center">Only team members and authorized users can have access to all our repositories.</p>
 <p align="center">If you are not part of the Developer Team and are not an authorized user, then you will not have access to all our projects.</p>
+</div>
 <br><br>
-<h3><p align="center">To have access to all our projects and developments there are two ways:</p></h3>
+<div>
+<h3><p align="center">There are several ways to access all our projects and development:</p></h3>
 
-<ul>
-<li>
-<span style="color:#F44336;"><span><strong>Be a member of the Developer Team;</strong></span></span>
-</li>
-<li>
-<span style="color:#F44336;"><span style="font-size:18px;"><strong>Be a licensed user;</strong></span></span>
-</li>
-</ul>
-<br>
-<p align="center">For more access information, contact us.</p>
+`Be a member of the Developer Team;`<br>
+`Be a licensed user;`<br>
+`Be our partner`<br>
+`Be one of the donor members`<br><br>
+For more access information, [Contact us](mailto:costumerhelp@developerteam.com).<br><br>
+
+</div>
 
 <a href="https://linktr.ee/DeveloperTeam" target="_blank"><img src="https://d1fdloi71mui9q.cloudfront.net/CgXpaWM2QiCe2NZ2ljzI_K188i9s3WG62EOha" target="_blank" align="center"></a>
 </div></p>
