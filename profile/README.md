@@ -84,28 +84,42 @@
 <p>Não fazemos uso de sistemas de registros por Keygens ou Cracks por serem facilmente burladas, preferimos utilizar um autenticação direta ao nosso banco de dades de usuários e clientes a fim de tornar sem projetos totalmente seguros conta cópia ou roubo.</p>
 <br>
 
-<div align="center"><h3> :diamond_shape_with_a_dot_inside:	<strong>Existem 4 maneiras de ter acesso a nossos Produtos e Serviços :diamond_shape_with_a_dot_inside:</strong></div></h3>
+<div align="center"><h3> :diamond_shape_with_a_dot_inside:	<strong>Existem 5 maneiras de ter acesso a nossos Produtos e Serviços :diamond_shape_with_a_dot_inside:</strong></div></h3>
 
 ```
 Membro Developer Team;
 Licença Gratuita e Vitalícia de uso para todos os nossos Projetos, Sistemas e Serviços e acesso a todos os Códigos Fontes;
 ```
+<a href="mailto:costumerhelp@developerteam.com" target="_blank"><img align="center" alt="DevTeam" height="29" width="150" src="https://user-images.githubusercontent.com/118836061/205684763-663f2c48-0a4c-4f85-ab53-6671abef669a.gif"></a><br>
+<br>
 ```
 Licença de Usuário;
-Licença de Uso para os Projetos, Sistemas e Serviços dos quais adquirir;
+Licença de Uso e Suporte Total para os Projetos, Sistemas e Serviços dos quais adquirir;
 ```
+<a href="mailto:costumerhelp@developerteam.com" target="_blank"><img align="center" alt="DevTeam" height="29" width="150" src="https://user-images.githubusercontent.com/118836061/205709588-d9a27896-f298-494b-8245-d2ca28323614.gif"></a>
+<br><br>
+```
+Parceiros;
+Licença de Uso e Suporte Total para todos os nossos Projetos, Sistemas e Serviços durante todo o tempo de parceria;
+```
+<a href="mailto:costumerhelp@developerteam.com" target="_blank"><img align="center" alt="DevTeam" height="29" width="150" src="https://user-images.githubusercontent.com/118836061/205709616-33f17ee5-d854-454c-a184-9bd081a985d0.gif"></a>
+<br><br>
 ```
 Colaboradores;
 Licença Gratuita de uso para todos os nossos Projetos, Sistemas e Serviços em que estiver colaborando no Desenvolvimento;
 ```
+<a href="mailto:costumerhelp@developerteam.com" target="_blank"><img align="center" alt="DevTeam" height="29" width="150" src="https://user-images.githubusercontent.com/118836061/205709639-2ec14252-a06e-4e2f-9b94-4e93da16a0e0.gif"></a>
+<br><br>
 ```
 Doadores;
 Licença Gratuita de 30 Dias de uso para todos os nossos Projetos, Sistemas e Serviços;
 Limitado a 3 Projetos, Sistemas ou Serviços por Doação;
 ```
+<a href="mailto:costumerhelp@developerteam.com" target="_blank"><img align="center" alt="DevTeam" height="29" width="150" src="https://user-images.githubusercontent.com/118836061/205709664-d6fa3167-bec9-4d1a-adb9-2cec85ca8cac.gif"></a><br>
 <br>
-
-Para mais informações, [Contate-nos](mailto:costumerhelp@developerteam.com).
+<br>
+  
+Ou para mais informações, [Contate-nos](mailto:costumerhelp@developerteam.com).
 <br>
 
 
@@ -176,12 +190,10 @@ Para mais informações, [Contate-nos](mailto:costumerhelp@developerteam.com).
 <a href="https://github.com/ByObservator" target="_blank"><img align="center" alt="DevTeam" height="115" width="115" src="https://user-images.githubusercontent.com/8391493/204973464-8e2f4986-c2ef-4be5-a3e5-53450a74539c.png"></a>
 <a href="https://github.com/DevCodeSync" target="_blank"><img align="center" alt="DevTeam" height="115" width="115" src="https://user-images.githubusercontent.com/8391493/204973470-f805e10b-09db-4d38-8081-49073cf54680.png"></a>
 <a href="https://github.com/ChronoByteDeveloper" target="_blank"><img align="center" alt="DevTeam" height="115" width="115" src="https://user-images.githubusercontent.com/8391493/204973469-6aaf80c5-ff53-4d36-9ac5-66db37c7a3bc.png"></a><br><br>
-<a href="mailto:costumerhelp@developerteam.com" target="_blank"><img align="center" alt="DevTeam" height="39" width="200" src="https://user-images.githubusercontent.com/118836061/205684763-663f2c48-0a4c-4f85-ab53-6671abef669a.gif"></a>
 <img align="center" alt="Js" height="5" width="1920" src="https://github.com/alexsantos0992/alexsantos0992/blob/main/assets/images/0.png">
 <a href=https://github.com/Developer-Team-Organization target="_blank"><img src="https://user-images.githubusercontent.com/118836061/205463776-a153c6fb-84d8-4eba-8be6-472b7932039b.gif" target="_blank" align="center"></a><br>
 <a href="https://virtuz.dev.br/" target="_blank"><img align="center" alt="DevTeam" height="95" width="285" src="https://user-images.githubusercontent.com/118836061/205463396-fd24e66e-ad92-470f-99c7-c5aba63d92f2.png"></a>
 <a href="https://projectoasis.io/" target="_blank"><img align="center" alt="DevTeam" height="95" width="134" src="https://user-images.githubusercontent.com/118836061/205464409-9c64b503-1821-46c0-89fa-96dfeb4f3ee3.png"></a><br><br>
-<a href="mailto:costumerhelp@developerteam.com" target="_blank"><img align="center" alt="DevTeam" height="29" width="150" src="https://user-images.githubusercontent.com/118836061/205465228-86beef81-640c-4ac5-9f06-03e4c894c5db.gif"></a><br>
 <img align="center" alt="Js" height="5" width="1920" src="https://github.com/alexsantos0992/alexsantos0992/blob/main/assets/images/0.png">
 </div>
       
