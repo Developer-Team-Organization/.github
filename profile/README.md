@@ -69,20 +69,46 @@
 ```
   Após o cancelamento você receberá seu dinheiro de volta em até 24 horas em qualquer Conta Bancária ou Pix informado;
 ```
+
+<br><br>
+<h3 align="center">
+
+## :game_die:	 Segurança Garantida :game_die:
   
+</h3>
+  
+Todos os nossos Projetos, Sistemas e Serviços são 100% Protegidos graças a nossa parceira [Pro-Managed](https://pro-managed.com/ddos_protection) que fornece total proteção para todos os nossos Projetos, Sistemas e Serviços oferecidos;
+  
+```
+  🛡️ 100% Protegido contra qualquer tipo de tentativa de Ataques, Alterações, Manipulações ou Interferências;
+```
+
+<br>
+:lock: <strong> * *Service Authenticator* * </strong>
+  
+<p>Todos os nossos desenvolvimentos são 100% protegidos contra qualquer tipo de Ataques, Alterações, Manipulações ou Interferências que possa ser realizada contra o funcionamento de tudo;</p>
+<p>Com o Service Authenticator você também estará totalmente seguro contra tentativas de cópia de qualquer produto que você adquirir da Developer Team, ou seja, damos total garantia de que ninguém poderá copiar seus arquivos para usar em outras plataformas;</p>
+
+<br>
+<strong> * *Não fazemos uso de sistemas de registros por Keygens ou Cracks por serem facilmente burladas* * </strong>
+
+```
+Utilizamos a tecnologia Blockchain para gerar sua Licença de Uso através de Smart Contracts na Blockchain da Ethereum;
+Sendo assim, cada contrato de Licença de Uso de cada um de nossos Clientes é absolutamente único e inalterável;  
+```
+
+<p>Além disso também temos o "Client & Server Authenticator" usado em nossos produtos relacionados a plataforma de Jogos;</p>
 <br><br>
 
 <h3 align="center">
 
-## :newspaper:	Licença de Uso e Segurança :closed_lock_with_key:
+## :newspaper:	Licença de Uso
   
 </h3>
 
 <p>Somente Membros, Parceiros e colaboradores podem ter acesso aos nossos serviços, se você baixou nossos arquivos e não conseguiu usar ou aparente ter erros ou estar incompleto, significa que você não possui uma licença de uso.</p>
 <p>A licença é autenticada e conecatada em nossa plataforma exclusiva de usuários, evitando que nossos produtos sejam utilizados sem nossa autorização prévia.</p>
-<p>Cada usuário possui uma licença única e diferente das outras em suas contas no nosso servidor de dados.</p>
-<p>Não fazemos uso de sistemas de registros por Keygens ou Cracks por serem facilmente burladas, preferimos utilizar um autenticação direta ao nosso banco de dades de usuários e clientes a fim de tornar sem projetos totalmente seguros conta cópia ou roubo.</p>
-<br>
+<p>Cada usuário possui uma licença única e diferente das outras em nosso servidor de dados.</p>
 
 <div align="center"><h3> :diamond_shape_with_a_dot_inside:	<strong>Existem 5 maneiras de ter acesso a nossos Produtos e Serviços :diamond_shape_with_a_dot_inside:</strong></div></h3>
 
@@ -90,36 +116,36 @@
 Membro Developer Team:
 Licença Gratuita e Vitalícia de uso para todos os nossos Projetos, Sistemas e Serviços e acesso a todos os Códigos Fontes;
 ```
-<a href="mailto:costumerhelp@developerteam.com" target="_blank"><img align="center" alt="DevTeam" height="29" width="150" src="https://user-images.githubusercontent.com/118836061/205684763-663f2c48-0a4c-4f85-ab53-6671abef669a.gif"></a><br>
+<a href="https://linktr.ee/DevTeamContact" target="_blank"><img align="center" alt="DevTeam" height="29" width="150" src="https://user-images.githubusercontent.com/118836061/205684763-663f2c48-0a4c-4f85-ab53-6671abef669a.gif"></a><br>
 <br>
 ```
 Licença de Usuário:
 Licença de Uso e Suporte Total para os Projetos, Sistemas e Serviços dos quais adquirir;
 ```
-<a href="mailto:costumerhelp@developerteam.com" target="_blank"><img align="center" alt="DevTeam" height="29" width="150" src="https://user-images.githubusercontent.com/118836061/205709588-d9a27896-f298-494b-8245-d2ca28323614.gif"></a>
+<a href="https://linktr.ee/DevTeamContact" target="_blank"><img align="center" alt="DevTeam" height="29" width="150" src="https://user-images.githubusercontent.com/118836061/205709588-d9a27896-f298-494b-8245-d2ca28323614.gif"></a>
 <br><br>
 ```
 Parceiros:
 Licença de Uso e Suporte Total para todos os nossos Projetos, Sistemas e Serviços durante todo o tempo de parceria;
 ```
-<a href="mailto:costumerhelp@developerteam.com" target="_blank"><img align="center" alt="DevTeam" height="29" width="150" src="https://user-images.githubusercontent.com/118836061/205709616-33f17ee5-d854-454c-a184-9bd081a985d0.gif"></a>
+<a href="https://linktr.ee/DevTeamContact" target="_blank"><img align="center" alt="DevTeam" height="29" width="150" src="https://user-images.githubusercontent.com/118836061/205709616-33f17ee5-d854-454c-a184-9bd081a985d0.gif"></a>
 <br><br>
 ```
 Colaboradores:
 Licença Gratuita de uso para todos os nossos Projetos, Sistemas e Serviços em que estiver colaborando no Desenvolvimento;
 ```
-<a href="mailto:costumerhelp@developerteam.com" target="_blank"><img align="center" alt="DevTeam" height="29" width="150" src="https://user-images.githubusercontent.com/118836061/205709639-2ec14252-a06e-4e2f-9b94-4e93da16a0e0.gif"></a>
+<a href="https://linktr.ee/DevTeamContact" target="_blank"><img align="center" alt="DevTeam" height="29" width="150" src="https://user-images.githubusercontent.com/118836061/205709639-2ec14252-a06e-4e2f-9b94-4e93da16a0e0.gif"></a>
 <br><br>
 ```
 Doadores:
 Licença Gratuita de 30 Dias de uso para todos os nossos Projetos, Sistemas e Serviços;
 Limitado a 3 Projetos, Sistemas ou Serviços por Doação;
 ```
-<a href="mailto:costumerhelp@developerteam.com" target="_blank"><img align="center" alt="DevTeam" height="29" width="150" src="https://user-images.githubusercontent.com/118836061/205709664-d6fa3167-bec9-4d1a-adb9-2cec85ca8cac.gif"></a><br>
+<a href="https://linktr.ee/DevTeamContact" target="_blank"><img align="center" alt="DevTeam" height="29" width="150" src="https://user-images.githubusercontent.com/118836061/205709664-d6fa3167-bec9-4d1a-adb9-2cec85ca8cac.gif"></a><br>
 <br>
 <br>
   
-Ou para mais informações, [Contate-nos](mailto:costumerhelp@developerteam.com).
+Ou para mais informações, [Contate-nos](https://linktr.ee/DevTeamContact).
 <br>
 
 
