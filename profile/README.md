@@ -47,11 +47,29 @@
 ## :balance_scale:	Garantia e Reembolso :heavy_dollar_sign:	
 
 </h3>
+  
+:heavy_check_mark:	Válido para todos os nossos Produtos e Serviços;
+
+:heavy_check_mark:	Reembolso Total do seu dinheiro;
+
 :calendar:	30 Dias de garantia;
-
-Válido para todos os nossos Produtos e Serviços;
-
-
+  
+```
+  Se em até 30 dias você não ficar 100% satisfeito, devolvemos seu dinheiro;
+```
+  
+:rocket:	Cancelamento Instantâneo;
+  
+```
+  Basta acessar seu Painel Administrativo na Sessão "Conta" e clicar em "Cancelar Licença";
+```
+  
+:money_with_wings:	Reembolso Rápido;
+  
+```
+  Após o cancelamento você receberá seu dinheiro de volta em até 24 horas em qualquer Conta Bancária ou Pix informado;
+```
+  
 <br><br>
 
 <h3 align="center">
