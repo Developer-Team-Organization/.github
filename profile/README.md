@@ -73,7 +73,7 @@
 <br><br>
 <h3 align="center">
 
-## :game_die:	 Segurança Garantida :game_die:
+## :closed_lock_with_key:	Segurança Garantida :closed_lock_with_key:	
   
 </h3>
   
