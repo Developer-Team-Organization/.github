@@ -3,11 +3,73 @@
 </div>
 
 # <p align="center">Welcome to the Developer Team's Github! :coffee: </p>
-
-<div style="display: inline_block" align="center">
-  <img align="center" alt="Js" height="352" width="704" src="https://user-images.githubusercontent.com/8391493/205165305-09a608c4-b7a1-42b9-ac5e-a8587493779d.gif">
 <br><br>
 
+<div align="center">
+
+## 💼	Serviços Developer Team :briefcase:	
+
+</div>
+  
+✨	Desenvolvimento Web
+  
+✨	Desenvolvimento Mobile
+  
+✨	Desenvolvimento de Plataformas, Sistemas e APIs
+  
+✨	Desenvolvimento de Jogos Online/Offline
+  
+✨	Desenvolvimento de Jogos Blockchain
+  
+✨	Desenvolvimento de Proteções e segurança
+  
+✨	Serviços Web Designer
+
+<br><br>
+<div align="center">
+<h3 align="center">
+
+## 💼	Serviços Lineage II 💼
+
+###  :game_die:	Compatibilidade :game_die:
+
+</h3>
+</div>
+
+✔️ Projetos e Serviços 100% Compatíveis com Projetos L2OFF;
+
+✔️ Projetos e Serviços 100% Compatíveis com Projetos L2JAVA;
+
+✔️ Projetos e Serviços 100% Compatíveis com Todas as Crônicas existentes de Lineage 2;
+
+☑️ Projetos e Serviços 100% Multi Language: Português / Ingês / Espanhol / Russo;
+
+```
+Tudo testado em mais de 58 Servidores diferentes entre projetos Free e Privados antes mesmo de serem comercializados;
+```
+
+✨	Desenvolvimento de Servidores Completos L2OFF;
+
+✨	Desenvolvimento de Servidores Completos L2JAVA;
+
+✨	Desenvolvimento de Eventos, Funções e Quests;
+
+✨	Desenvolvimento de Ícones Estáticos e Animados para Servidores;
+
+✨	Desenvolvimento de Imagens Estáticas e Animadas Para Servidores;
+
+✨	Desenvolvimento de Sites e Fóruns;
+
+✨	Desenvolvimento de Painéis Donate/Account Manager;
+
+✨	Desenvolvimento de Vídeos, Audios, Imagens, Logos, Banners;
+
+✨	Desenvolvimento de Texturas e Animações;
+
+✨	Desenvolvimento de Templates Twitch, Youtube, Facebook, Instagram;
+
+<br><br>
+<div align="center">
 <h3 align="center">
 
 ## :gear:	Suporte Exclusivo :gear:
@@ -21,24 +83,6 @@
 ✅	Atualizações, Manutenções, Correções, Modificações, Personalizações, Integrações e etc;
 
 ✅	Prazo Máximo de 24 horas para Resposta e Solução do que você precisar;
-
-<br><br>
-
-<h3 align="center">
-
-## :game_die:	 Compatibilidade :game_die:
-  
-</h3>
-
-✔️ Projetos e Serviços 100% Compatíveis com Projetos L2OFF;
-
-✔️ Projetos e Serviços 100% Compatíveis com Projetos L2JAVA;
-
-✔️ Projetos e Serviços 100% Compatíveis com Todas as Crônicas existentes de Lineage 2;
-
-☑️ Testado em mais de 58 Servidores diferentes entre projetos Free e Privados antes mesmo de serem comercializados;
-
-☑️ Projetos e Serviços 100% Multi Language: Português / Ingês / Espanhol / Russo;
 
 <br><br>
 
@@ -97,7 +141,7 @@ Utilizamos a tecnologia Blockchain para gerar sua Licença de Uso através de Sm
 Sendo assim, cada contrato de Licença de Uso de cada um de nossos Clientes é absolutamente único e inalterável;  
 ```
 
-<p>Além disso também temos o "Client & Server Authenticator" usado em nossos produtos relacionados a plataforma de Jogos;</p>
+<p>Além disso também temos o nosso prórpio "Client & Server Authenticator" usado em nossos produtos relacionados a plataforma de Jogos;</p>
 <br><br>
 
 <h3 align="center">
