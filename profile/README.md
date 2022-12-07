@@ -28,6 +28,7 @@
 <br><br>
 <div align="center">
 <h3 align="center">
+<img align="center" alt="Js" height="5" width="1920" src="https://github.com/alexsantos0992/alexsantos0992/blob/main/assets/images/0.png">
 
 ## 💼	Serviços Lineage II 💼
 
@@ -77,6 +78,7 @@ Tudo testado em mais de 58 Servidores diferentes entre projetos Free e Privados 
 
 ✨	Desenvolvimento de Templates Twitch, Youtube, Facebook, Instagram;
 
+<img align="center" alt="Js" height="5" width="1920" src="https://github.com/alexsantos0992/alexsantos0992/blob/main/assets/images/0.png">
 <br><br>
 <div align="center">
 <h3 align="center">
