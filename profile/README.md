@@ -287,10 +287,12 @@ Ou para mais informações, [Contate-nos](https://linktr.ee/DevTeamContact).
 <a href="https://github.com/ChronoByteDeveloper" target="_blank"><img align="center" alt="DevTeam" height="115" width="115" src="https://user-images.githubusercontent.com/8391493/204973469-6aaf80c5-ff53-4d36-9ac5-66db37c7a3bc.png"></a><br><br>
 <img align="center" alt="Js" height="5" width="1920" src="https://github.com/alexsantos0992/alexsantos0992/blob/main/assets/images/0.png">
 <a href=https://github.com/Developer-Team-Organization target="_blank"><img src="https://user-images.githubusercontent.com/118836061/205463776-a153c6fb-84d8-4eba-8be6-472b7932039b.gif" target="_blank" align="center"></a><br>
-<a href="https://projectoasis.io/" target="_blank"><img align="center" alt="DevTeam" height="95" width="134" src="https://user-images.githubusercontent.com/118836061/205464409-9c64b503-1821-46c0-89fa-96dfeb4f3ee3.png"></a> 
-<a href="https://pro-managed.com/ddos_protection" target="_blank"><img align="center" alt="DevTeam" height="95" width="134" src="https://user-images.githubusercontent.com/118836061/205717547-1444e058-efb6-41a2-a1bd-7f42c7722861.png"></a> 
-<a href="https://virtuz.dev.br/" target="_blank"><img align="center" alt="DevTeam" height="95" width="285" src="https://user-images.githubusercontent.com/118836061/205463396-fd24e66e-ad92-470f-99c7-c5aba63d92f2.png"></a>
-<a href="https://workover.com.br/" target="_blank"><img align="center" alt="DevTeam" height="95" width="134" src="https://user-images.githubusercontent.com/118836061/205714870-cf00be7a-2659-428d-9a36-538bf12671f4.png"></a><br>
+<a href="https://projectoasis.io/" target="_blank"><img align="center" alt="DevTeam" height="100" width="134" src="https://user-images.githubusercontent.com/118836061/205464409-9c64b503-1821-46c0-89fa-96dfeb4f3ee3.png"></a>
+<a href="https://pro-managed.com/ddos_protection" target="_blank"><img align="center" alt="DevTeam" height="85" width="124" src="https://user-images.githubusercontent.com/118836061/205717547-1444e058-efb6-41a2-a1bd-7f42c7722861.png"></a>
+<a href="https://www.logmein.com/pt" target="_blank"><img align="center" alt="DevTeam" height="100" width="35" src="https://user-images.githubusercontent.com/119512126/206202844-3d9ca522-e2bc-471e-b6f6-d11edf818ccb.png"></a>
+<a href="https://www.logmein.com/pt" target="_blank"><img align="center" alt="DevTeam" height="120" width="120" src="https://user-images.githubusercontent.com/119512126/206202434-5b5f7d43-35c3-4e7f-ab05-f496a68fbfbc.png"></a>
+<a href="https://virtuz.dev.br/" target="_blank"><img align="center" alt="DevTeam" height="75" width="270" src="https://user-images.githubusercontent.com/118836061/205463396-fd24e66e-ad92-470f-99c7-c5aba63d92f2.png"></a>
+<a href="https://workover.com.br/" target="_blank"><img align="center" alt="DevTeam" height="75" width="104" src="https://user-images.githubusercontent.com/118836061/205714870-cf00be7a-2659-428d-9a36-538bf12671f4.png"></a><br>
 <img align="center" alt="Js" height="5" width="1920" src="https://github.com/alexsantos0992/alexsantos0992/blob/main/assets/images/0.png">
 </div>
       
