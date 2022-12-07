@@ -8,6 +8,7 @@
 <div align="center">
 
 ## 💼	Serviços Developer Team :briefcase:	
+<img align="center" alt="Js" height="280" width="480" src="https://user-images.githubusercontent.com/119512126/206198308-e476014e-2cc1-48ef-acac-f17078f8c546.png">
 
 </div>
   
@@ -31,6 +32,8 @@
 <img align="center" alt="Js" height="5" width="1920" src="https://github.com/alexsantos0992/alexsantos0992/blob/main/assets/images/0.png">
 
 ## 💼	Serviços Lineage II 💼
+
+<img align="center" alt="Js" height="132" width="244" src="https://user-images.githubusercontent.com/119512126/206200817-988fa904-06b8-4dad-a35e-434bcd50d1dc.gif">
 
 ###  :game_die:	Compatibilidade :game_die:
 
@@ -84,6 +87,8 @@ Tudo testado em mais de 58 Servidores diferentes entre projetos Free e Privados 
 <h3 align="center">
 
 ## :gear:	Suporte Exclusivo :gear:
+<img align="center" alt="Js" height="250" width="250" src="https://user-images.githubusercontent.com/119512126/206192215-0b0e50dc-9d22-4e78-a1f7-292c3a7a7f55.png">
+
 
 </h3>
 
@@ -95,13 +100,18 @@ Tudo testado em mais de 58 Servidores diferentes entre projetos Free e Privados 
 
 ✅	Prazo Máximo de 24 horas para Resposta e Solução do que você precisar;
 
+:alarm_clock:	Suporte 24 horas - Português e Inglês em todas as plataformas de contato;
+
+:telephone_receiver:	Telefone / WhatsApp / Discord / DevTeam Chat / E-mail / LogMeIn / Team Viewer / AnyDesk
+
 <br><br>
 
 <h3 align="center">
 
 ## :balance_scale:	Garantia e Reembolso :heavy_dollar_sign:	
 
-</h3>
+<img align="center" alt="Js" height="157" width="180" src="https://user-images.githubusercontent.com/119512126/206185241-c374e46c-eecd-40aa-bb95-8ba8887b6301.png">
+
   
 :heavy_check_mark:	Válido para todos os nossos Produtos e Serviços;
 
@@ -129,7 +139,9 @@ Tudo testado em mais de 58 Servidores diferentes entre projetos Free e Privados 
 <h3 align="center">
 
 ## :closed_lock_with_key:	Segurança Garantida :closed_lock_with_key:	
-  
+
+<img align="center" alt="Js" height="317" width="362" src="https://user-images.githubusercontent.com/119512126/206196342-3703c7bf-2fc1-4fa1-9b34-86e13fb491c4.svg">
+
 </h3>
   
 Todos os nossos Projetos, Sistemas e Serviços são 100% Protegidos graças a nossa parceira [Pro-Managed](https://pro-managed.com/ddos_protection) que fornece total proteção para todos os nossos Projetos, Sistemas e Serviços oferecidos;
@@ -158,7 +170,9 @@ Sendo assim, cada contrato de Licença de Uso de cada um de nossos Clientes é a
 <h3 align="center">
 
 ## :newspaper:	Licença de Uso
-  
+
+<img align="center" alt="Js" height="240" width="250" src="https://user-images.githubusercontent.com/119512126/206197058-3361512d-25af-41c0-b201-74056495c17f.png">
+
 </h3>
 
 <p>Somente Membros, Parceiros e colaboradores podem ter acesso aos nossos serviços, se você baixou nossos arquivos e não conseguiu usar ou aparente ter erros ou estar incompleto, significa que você não possui uma licença de uso.</p>
