@@ -200,13 +200,8 @@ Sendo assim, cada contrato de Licença de Uso de cada um de nossos Clientes é a
 💠	Comprovante de contribuições Donativas;
 
 <div align="center">
+<br><br> 
 
-
-
-
-  
-  
-  
 <h3 align="center">
 
 ## :newspaper:	Licença de Uso
