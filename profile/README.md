@@ -135,6 +135,7 @@ Tudo testado em mais de 58 Servidores diferentes entre projetos Free e Privados 
   Após o cancelamento você receberá seu dinheiro de volta em até 24 horas em qualquer Conta Bancária ou Pix informado;
 ```
 
+<img align="center" alt="Js" height="252" width="596" src="https://user-images.githubusercontent.com/119512126/206206507-b11c2164-88e4-436e-8a37-86485b742993.png">
 <br><br>
 <h3 align="center">
 
@@ -167,6 +168,45 @@ Sendo assim, cada contrato de Licença de Uso de cada um de nossos Clientes é a
 <p>Além disso também temos o nosso prórpio "Client & Server Authenticator" usado em nossos produtos relacionados a plataforma de Jogos;</p>
 <br><br>
 
+<h3 align="center">
+
+## :page_with_curl:	Smart Contracts
+
+<img align="center" alt="Js" height="205" width="300" src="https://user-images.githubusercontent.com/119512126/206209186-931405cf-830e-4cb8-9769-8d6e049c9ed1.png">
+
+</h3>
+
+<p>Um Smart Contract é um protocolo de computador autoexecutável criado com a popularização das criptomoedas e feito para facilitar e reforçar a negociação ou desempenho de um contrato, proporcionando confiabilidade em transações online, com objetivo principal de permitir que pessoas desconhecidas façam negócios de confiança entre si.</p>
+<p>Todas as nossas licenças de uso geradas via Smart Contract possuem validade nacional e internacional, sendo emitidas de forma Jurídica em nome da Developer Team.</p>
+<br>
+
+  
+### Nossos Smart Contracts podem incluir:
+
+</div>
+
+💠	Contratos de Membros;
+  
+💠	Licenças de Uso;
+  
+💠	Contratos de Prestação de Suporte;
+  
+💠	Contratos de Prestação de Serviços;
+  
+💠	Contratos de Parceria;
+  
+💠	Contratos de Colaborador;
+  
+💠	Comprovante de contribuições Donativas;
+
+<div align="center">
+
+
+
+
+  
+  
+  
 <h3 align="center">
 
 ## :newspaper:	Licença de Uso
