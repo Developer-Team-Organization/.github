@@ -67,19 +67,21 @@ Tudo testado em mais de 58 Servidores diferentes entre projetos Free e Privados 
 
 ✨	Desenvolvimento de Eventos, Funções e Quests;
 
+✨	Desenvolvimento de NPCs / Monstros / Objetos / Estruturas;
+
+✨	Desenvolvimento de Efeitos;
+
 ✨	Desenvolvimento de Ícones Estáticos e Animados para Servidores;
 
 ✨	Desenvolvimento de Imagens Estáticas e Animadas Para Servidores;
 
 ✨	Desenvolvimento de Sites e Fóruns;
 
-✨	Desenvolvimento de Painéis Donate/Account Manager;
+✨	Desenvolvimento de Painéis Administrativos / Painéis Donate / Account Manager;
 
-✨	Desenvolvimento de Vídeos, Audios, Imagens, Logos, Banners;
+✨	Desenvolvimento de Vídeos / Audios / Imagens / Logos / Banners;
 
-✨	Desenvolvimento de Texturas e Animações;
-
-✨	Desenvolvimento de Templates Twitch, Youtube, Facebook, Instagram;
+✨	Desenvolvimento de Templates Twitch / Youtube / Facebook / Instagram;
 
 <img align="center" alt="Js" height="5" width="1920" src="https://github.com/alexsantos0992/alexsantos0992/blob/main/assets/images/0.png">
 <br><br>
