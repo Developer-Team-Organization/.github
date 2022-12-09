@@ -3,8 +3,10 @@
 </div>
 
 # <p align="center">Welcome to the Developer Team's Github! :coffee: </p>
-<br><br>
 
+<h3 align="center">Visite nossa Github Page:<br>
+<a href="https://developer-team-organization.github.io/" target="_blank"><img src="https://user-images.githubusercontent.com/8391493/206624051-435046b9-0517-4dbe-8d76-d291bda066b1.png" target="_blank" align="center" height="143" width="312"></a></h2>
+<br><br>
 <div align="center">
 
 ## 💼	Serviços Developer Team :briefcase:	
