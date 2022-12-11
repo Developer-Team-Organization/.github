@@ -252,7 +252,8 @@ Doadores:
 
 Faça como vários outros apoiadores que tem ajudado a Developer Team com doações de qualquer valor;
 20% do valor doado é destinado a constantes melhorias de desenvolvimento da Developer Team e seus projetos;
-80% do valor doado é destinado a 8 Causas Sociais ou de Caridade, a fim de tornar a vida de pessoas melhor e também o mundo um lugar melhor;
+80% do valor doado é destinado a 8 Causas Sociais ou de Caridade, a fim de tornar a vida de pessoas melhor
+e também o mundo um lugar melhor;
 
 Atualmente contamos com uma média de 37 a 51 doações mensais com valores que variam entre R$ 13,00 e R$217,00 Reais;
 Faça parte você também e ajude-nos a construir o futuro;
