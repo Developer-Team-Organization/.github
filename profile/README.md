@@ -22,7 +22,7 @@
   
 ✨	Desenvolvimento de Jogos Online/Offline
   
-✨	Desenvolvimento de Jogos Blockchain
+✨	Desenvolvimento de Jogos NFT/Blockchain
   
 ✨	Desenvolvimento de Proteções e segurança
   
