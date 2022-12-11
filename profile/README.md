@@ -249,8 +249,16 @@ Licença Gratuita de uso para todos os nossos Projetos, Sistemas e Serviços em 
 <br><br>
 ```
 Doadores:
-Licença Gratuita de 30 Dias de uso para todos os nossos Projetos, Sistemas e Serviços;
-Limitado a 3 Projetos, Sistemas ou Serviços por Doação;
+
+Faça como vários outros apoiadores que tem ajudado a Developer Team com doações de qualquer valor;
+20% do valor doado é destinado a constantes melhorias de desenvolvimento da Developer Team e seus projetos;
+80% do valor doado é destinado a 8 Causas Sociais ou de Caridade, a fim de tornar a vida de pessoas melhor e também o mundo um lugar melhor;
+
+Atualmente contamos com uma média de 37 a 51 doações mensais com valores que variam entre R$ 13,00 e R$217,00 Reais;
+Faça parte você também e ajude-nos a construir o futuro;
+
+Licença Gratuita de 30 Dias de uso para todos os nossos Projetos, Sistemas e Serviços(Opcional);
+Limitado a 3 Projetos, Sistemas ou Serviços por Doação(Opcional);
 ```
 <a href="mailto:donatioshelp@developerteam.tech" target="_blank"><img align="center" alt="DevTeam" height="29" width="150" src="https://user-images.githubusercontent.com/118836061/205709664-d6fa3167-bec9-4d1a-adb9-2cec85ca8cac.gif"></a><br>
 <br>
