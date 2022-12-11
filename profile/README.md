@@ -22,9 +22,15 @@
   
 ✨	Desenvolvimento de Jogos Online/Offline
   
-✨	Desenvolvimento de Jogos NFT/Blockchain
+✨	Desenvolvimento de Criptomoedas
   
-✨	Desenvolvimento de Proteções e segurança
+✨	Desenvolvimento de Jogos NFT
+  
+✨	Desenvolvimento de Coleções NFT
+  
+✨	Desenvolvimento de Marketplaces para NFTs e Jogos
+  
+✨	Desenvolvimento de Proteções e Segurança
   
 ✨	Serviços Web Designer
 
@@ -70,19 +76,27 @@ Tudo testado em mais de 58 Servidores diferentes entre projetos Free e Privados 
 
 ✨	Desenvolvimento de Servidores Completos L2JAVA;
 
-✨	Desenvolvimento de Eventos, Funções e Quests;
+✨	Integração real de sistema NFT em Servidores L2OFF e L2JAVA;
 
-✨	Desenvolvimento de NPCs / Monstros / Objetos / Estruturas;
+✨	Integração de Crypto Wallets em Servidores L2OFF e L2JAVA;
 
-✨	Desenvolvimento de Efeitos;
+✨	Desenvolvimento de Launchers Updater;
+
+✨	Desenvolvimento de Novos Eventos, Funções e Quests;
+
+✨	Desenvolvimento de Novos NPCs / Monstros / Objetos / Estruturas;
+
+✨	Desenvolvimento de Novos Efeitos;
+
+✨	Desenvolvimento de Geodatas;
 
 ✨	Desenvolvimento de Ícones Estáticos e Animados para Servidores;
 
 ✨	Desenvolvimento de Imagens Estáticas e Animadas Para Servidores;
 
-✨	Desenvolvimento de Sites e Fóruns;
+✨	Desenvolvimento de Sites e Fóruns Completos;
 
-✨	Desenvolvimento de Painéis Administrativos / Painéis Donate / Account Manager;
+✨	Desenvolvimento de Painéis Administrativos / Painéis Donate / Account Manager Completos;
 
 ✨	Desenvolvimento de Vídeos / Audios / Imagens / Logos / Banners;
 
