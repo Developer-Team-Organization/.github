@@ -61,6 +61,10 @@ Tudo testado em mais de 58 Servidores diferentes entre projetos Free e Privados 
 ### 💼	Serviços 💼
 
 </h3>
+
+✨	[DevTeam Battle Tournament System](https://github.com/Developer-Team-Organization/Battle-Tournament-System_DevTeam_v4.7.2)
+
+✨	[DevTeam L2 Interface Official](https://github.com/Developer-Team-Organization/DevTeam-L2-Interface)
 </div>
 
 ✨	Desenvolvimento de Servidores Completos L2OFF;
