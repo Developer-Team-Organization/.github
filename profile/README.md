@@ -10,10 +10,10 @@
 <div align="center">
 
 ## 💼	Serviços Developer Team :briefcase:	
-<img align="center" alt="Js" height="280" width="480" src="https://user-images.githubusercontent.com/119512126/206198308-e476014e-2cc1-48ef-acac-f17078f8c546.png">
-
-</div>
+<img align="center" alt="Js" height="280" width="480" src="https://user-images.githubusercontent.com/119512126/206198308-e476014e-2cc1-48ef-acac-f17078f8c546.png"></div>
   
+✨	[Live Streaming Service PRO](https://github.com/Developer-Team-Organization/Live-Streaming-Center-Pro)
+
 ✨	Desenvolvimento Web
   
 ✨	Desenvolvimento Mobile
@@ -60,12 +60,11 @@ Tudo testado em mais de 58 Servidores diferentes entre projetos Free e Privados 
 
 ### 💼	Serviços 💼
 
-</h3>
+</h3></div></div>
 
 ✨	[DevTeam Battle Tournament System](https://github.com/Developer-Team-Organization/Battle-Tournament-System_DevTeam_v4.7.2)
 
 ✨	[DevTeam L2 Interface Official](https://github.com/Developer-Team-Organization/DevTeam-L2-Interface)
-</div>
 
 ✨	Desenvolvimento de Servidores Completos L2OFF;
 
