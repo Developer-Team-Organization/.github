@@ -227,36 +227,36 @@ Sendo assim, cada contrato de Licença de Uso de cada um de nossos Clientes é a
 Membro Developer Team:
 Licença Gratuita e Vitalícia de uso para todos os nossos Projetos, Sistemas e Serviços e acesso a todos os Códigos Fontes;
 ```
-<a href="https://linktr.ee/DevTeamContact" target="_blank"><img align="center" alt="DevTeam" height="29" width="150" src="https://user-images.githubusercontent.com/118836061/205684763-663f2c48-0a4c-4f85-ab53-6671abef669a.gif"></a><br>
+<a href="mailto:members@developerteam.tech" target="_blank"><img align="center" alt="DevTeam" height="29" width="150" src="https://user-images.githubusercontent.com/118836061/205684763-663f2c48-0a4c-4f85-ab53-6671abef669a.gif"></a><br>
 <br>
 ```
 Licença de Usuário:
 Licença de Uso e Suporte Total para os Projetos, Sistemas e Serviços dos quais adquirir;
 ```
-<a href="https://linktr.ee/DevTeamContact" target="_blank"><img align="center" alt="DevTeam" height="29" width="150" src="https://user-images.githubusercontent.com/118836061/205709588-d9a27896-f298-494b-8245-d2ca28323614.gif"></a>
+<a href="mailto:licenseusers@developerteam.tech" target="_blank"><img align="center" alt="DevTeam" height="29" width="150" src="https://user-images.githubusercontent.com/118836061/205709588-d9a27896-f298-494b-8245-d2ca28323614.gif"></a>
 <br><br>
 ```
 Parceiros:
 Licença de Uso e Suporte Total para todos os nossos Projetos, Sistemas e Serviços durante todo o tempo de parceria;
 ```
-<a href="https://linktr.ee/DevTeamContact" target="_blank"><img align="center" alt="DevTeam" height="29" width="150" src="https://user-images.githubusercontent.com/118836061/205709616-33f17ee5-d854-454c-a184-9bd081a985d0.gif"></a>
+<a href="mailto:licensepartners@developerteam.tech" target="_blank"><img align="center" alt="DevTeam" height="29" width="150" src="https://user-images.githubusercontent.com/118836061/205709616-33f17ee5-d854-454c-a184-9bd081a985d0.gif"></a>
 <br><br>
 ```
 Colaboradores:
 Licença Gratuita de uso para todos os nossos Projetos, Sistemas e Serviços em que estiver colaborando no Desenvolvimento;
 ```
-<a href="https://linktr.ee/DevTeamContact" target="_blank"><img align="center" alt="DevTeam" height="29" width="150" src="https://user-images.githubusercontent.com/118836061/205709639-2ec14252-a06e-4e2f-9b94-4e93da16a0e0.gif"></a>
+<a href="mailto:licensecollaborators@developerteam.tech" target="_blank"><img align="center" alt="DevTeam" height="29" width="150" src="https://user-images.githubusercontent.com/118836061/205709639-2ec14252-a06e-4e2f-9b94-4e93da16a0e0.gif"></a>
 <br><br>
 ```
 Doadores:
 Licença Gratuita de 30 Dias de uso para todos os nossos Projetos, Sistemas e Serviços;
 Limitado a 3 Projetos, Sistemas ou Serviços por Doação;
 ```
-<a href="https://linktr.ee/DevTeamContact" target="_blank"><img align="center" alt="DevTeam" height="29" width="150" src="https://user-images.githubusercontent.com/118836061/205709664-d6fa3167-bec9-4d1a-adb9-2cec85ca8cac.gif"></a><br>
+<a href="mailto:donatioshelp@developerteam.tech" target="_blank"><img align="center" alt="DevTeam" height="29" width="150" src="https://user-images.githubusercontent.com/118836061/205709664-d6fa3167-bec9-4d1a-adb9-2cec85ca8cac.gif"></a><br>
 <br>
 <br>
   
-Ou para mais informações, [Contate-nos](https://linktr.ee/DevTeamContact).
+Ou para mais informações, [Contate-nos](mailto:costumerhelp@developerteam.tech).
 <br>
 
 
