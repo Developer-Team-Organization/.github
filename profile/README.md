@@ -28,7 +28,7 @@
   
 ✨	Desenvolvimento de Coleções NFT
   
-✨	Aplicação de Smart Contracts
+✨	[Aplicação de Smart Contracts](https://github.com/Developer-Team-Organization/solidity-ethereum-smart-contract)
   
 ✨	Desenvolvimento de Marketplaces para NFTs e Jogos
   
@@ -82,7 +82,7 @@ Tudo testado em mais de 58 Servidores diferentes entre projetos Free e Privados 
 
 ✨	Integração de Crypto Wallets em Servidores L2OFF e L2JAVA;
 
-✨	[Integração de Smart Contracts em Servidores L2OFF e L2JAVA;](https://github.com/Developer-Team-Organization/solidity-ethereum-smart-contract)
+✨	Integração de Smart Contracts em Servidores L2OFF e L2JAVA;
 
 ✨	Desenvolvimento de Launchers Updater;
 
