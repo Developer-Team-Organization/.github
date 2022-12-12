@@ -121,12 +121,14 @@ Tudo testado em mais de 58 Servidores diferentes entre projetos Free e Privados 
 
 ✅	Válido para todos os nosso produtos e serviços;
 
+✅	Acesso Exclusivo ao Fórum Developer Team;
+
 ✅	Atualizações, Manutenções, Correções, Modificações, Personalizações, Integrações e etc;
 
 ✅	Prazo Máximo de 24 horas para Resposta e Solução do que você precisar;
 
 :alarm_clock:	Suporte 24 horas - Português, Inglês ou Espanhol em todas as plataformas de contato;
-  
+
 ```
 Telefone (Ligações)
 WhatsApp (Chat / Vóz / Video)
@@ -137,7 +139,7 @@ E-mail (Texto)
 LogMeIn (Acesso Remoto / Chat)  
 Team Viewer (Acesso Remoto / Chat)
 AnyDesk (Acesso Remoto / Chat);
-  ```
+```
 
 <br><br>
 
