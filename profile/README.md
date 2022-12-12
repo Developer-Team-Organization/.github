@@ -111,7 +111,7 @@ Tudo testado em mais de 58 Servidores diferentes entre projetos Free e Privados 
 <div align="center">
 <h3 align="center">
 
-## :gear:	Suporte Exclusivo :gear:
+## :gear:	Suporte Multilingue Exclusivo :gear:
 <img align="center" alt="Js" height="250" width="250" src="https://user-images.githubusercontent.com/119512126/206192215-0b0e50dc-9d22-4e78-a1f7-292c3a7a7f55.png">
 
 
@@ -125,9 +125,11 @@ Tudo testado em mais de 58 Servidores diferentes entre projetos Free e Privados 
 
 ✅	Prazo Máximo de 24 horas para Resposta e Solução do que você precisar;
 
-:alarm_clock:	Suporte 24 horas - Português e Inglês em todas as plataformas de contato;
+:alarm_clock:	Suporte 24 horas - Português, Inglês ou Espanhol em todas as plataformas de contato;
 
-:telephone_receiver:	Telefone / WhatsApp / Discord / DevTeam Chat / E-mail / LogMeIn / Team Viewer / AnyDesk
+:telephone_receiver:	Telefone(Ligações) / WhatsApp(Chat/Vóz/Video) / Discord(Chat/Vóz/Video) / Telegram(Chat/Vóz/Video)
+
+DevTeam Chat(Chat/Vóz/Video) / E-mail(Texto) / LogMeIn(Acesso Remoto/Chat) / Team Viewer(Acesso Remoto/Chat) / AnyDesk(Acesso Remoto/Chat);
 
 <br><br>
 
