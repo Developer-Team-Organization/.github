@@ -191,7 +191,7 @@ Sendo assim, cada contrato de Licença de Uso de cada um de nossos Clientes é a
 
 <h3 align="center">
 
-## :page_with_curl:	Smart Contracts
+## 📃	Smart Contracts 📃
 
 <img align="center" alt="Js" height="205" width="300" src="https://user-images.githubusercontent.com/119512126/206209186-931405cf-830e-4cb8-9769-8d6e049c9ed1.png">
 
@@ -225,7 +225,7 @@ Sendo assim, cada contrato de Licença de Uso de cada um de nossos Clientes é a
 
 <h3 align="center">
 
-## :newspaper:	Licença de Uso
+## 📰	Licença de Uso 📰
 
 <img align="center" alt="Js" height="240" width="250" src="https://user-images.githubusercontent.com/119512126/206197058-3361512d-25af-41c0-b201-74056495c17f.png">
 
