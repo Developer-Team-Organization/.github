@@ -28,6 +28,8 @@
   
 ✨	Desenvolvimento de Coleções NFT
   
+✨	Aplicação de Smart Contracts
+  
 ✨	Desenvolvimento de Marketplaces para NFTs e Jogos
   
 ✨	Desenvolvimento de Proteções e Segurança
@@ -68,7 +70,7 @@ Tudo testado em mais de 58 Servidores diferentes entre projetos Free e Privados 
 
 </h3></div></div>
 
-✨	[DevTeam Battle Tournament System](https://github.com/Developer-Team-Organization/Battle-Tournament-System_DevTeam_v4.7.2)
+✨	[DevTeam Battle Tournament System;](https://github.com/Developer-Team-Organization/Battle-Tournament-System_DevTeam_v4.7.2)
 
 ✨	[DevTeam L2 Interface Official](https://github.com/Developer-Team-Organization/DevTeam-L2-Interface)
 
@@ -79,6 +81,8 @@ Tudo testado em mais de 58 Servidores diferentes entre projetos Free e Privados 
 ✨	Integração real de sistema NFT em Servidores L2OFF e L2JAVA;
 
 ✨	Integração de Crypto Wallets em Servidores L2OFF e L2JAVA;
+
+✨	[Integração de Smart Contracts em Servidores L2OFF e L2JAVA;](https://github.com/Developer-Team-Organization/solidity-ethereum-smart-contract)
 
 ✨	Desenvolvimento de Launchers Updater;
 
