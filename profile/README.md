@@ -232,7 +232,7 @@ Sendo assim, cada contrato de Licença de Uso de cada um de nossos Clientes é a
 </h3>
 
 <p>Somente Membros, Parceiros e colaboradores podem ter acesso aos nossos serviços, se você baixou nossos arquivos e não conseguiu usar ou aparente ter erros ou estar incompleto, significa que você não possui uma licença de uso.</p>
-<p>A licença é autenticada e conecatada em nossa plataforma exclusiva de usuários, evitando que nossos produtos sejam utilizados sem nossa autorização prévia.</p>
+<p>A licença é autenticada e conectada em nossa plataforma exclusiva de usuários, evitando que nossos produtos sejam utilizados sem nossa autorização prévia.</p>
 <p>Cada usuário possui uma licença única e diferente das outras em nosso servidor de dados.</p>
 
 <div align="center"><h3> :diamond_shape_with_a_dot_inside:	<strong>Existem 5 maneiras de ter acesso a nossos Produtos e Serviços :diamond_shape_with_a_dot_inside:</strong></div></h3>
