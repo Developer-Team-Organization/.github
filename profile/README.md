@@ -114,21 +114,21 @@ Tudo testado em mais de 58 Servidores diferentes entre projetos Free e Privados 
 <img align="center" alt="Js" height="200" width="200" src="https://user-images.githubusercontent.com/118836061/207187043-cbcd8cfa-4552-46c4-a5ae-1836450cb941.gif">
 </h3>
 
-✅	Acesso Exclusivo ao Fórum Developer Team Lineage;
+<strong> ✅	Acesso Exclusivo ao Fórum Developer Team Lineage; </strong>
 
-```
-Mais de 50 Rev's Pré-configuradas desenvolvidos pela Developer Team em cada uma das crônicas disponíveis atualmente
-Mais de 400 Mods com tutoriais em video completos para cada crônica entre Quests / Eventos / Proteções / Comandos
-63 Mods Exclusivos desenvolvidos do Zero pela Developer Team
-Mais de 680 Tutoriais em Video Completos desenvolvidos pela Developer Team sobre todos os tipos de configurações,
-Criações e Modificações para servidores de todas as Crônicas
-Mais de 1700 Arquivos para Download entre Armas / Armaduras / Acessórios para todas as crônicas disponíveis atualmente
-Mais de 900 Arquivos para Download entre Transformações / NPCs / Montros para todas as crônicas disponíveis atualmente
-Mais de 470 Arquivos para Download entre Programas e Ferramentas para todas as crônicas disponíveis atualmente
-Mais de 385 Sites e Scripts para Download para todas as crônicas disponíveis atualmente
-Mais de 40 Arquivos Completos para Download entre Sistemas / Painéis para todas as crônicas disponíveis atualmente
-```
+</div>
 
+✔️ Mais de 50 Rev's Pré-configuradas desenvolvidos pela Developer Team em cada uma das crônicas disponíveis atualmente
+✔️ Mais de 400 Mods com tutoriais em video completos para cada crônica entre Quests / Eventos / Proteções / Comandos
+✔️ 63 Mods Exclusivos desenvolvidos do Zero pela Developer Team
+✔️ Mais de 680 Tutoriais em Video Completos desenvolvidos pela Developer Team sobre todos os tipos de configurações, Criações e Modificações para servidores de todas as Crônicas
+✔️ Mais de 1700 Arquivos para Download entre Armas / Armaduras / Acessórios para todas as crônicas disponíveis atualmente
+✔️ Mais de 900 Arquivos para Download entre Transformações / NPCs / Montros para todas as crônicas disponíveis atualmente
+✔️ Mais de 470 Arquivos para Download entre Programas e Ferramentas para todas as crônicas disponíveis atualmente
+✔️ Mais de 385 Sites e Scripts para Download para todas as crônicas disponíveis atualmente
+✔️ Mais de 40 Arquivos Completos para Download entre Sistemas / Painéis para todas as crônicas disponíveis atualmente
+
+<div align="center">
 <img align="center" alt="Js" height="5" width="1920" src="https://github.com/alexsantos0992/alexsantos0992/blob/main/assets/images/0.png"><br><br>
 <br><br>
   
