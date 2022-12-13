@@ -163,10 +163,10 @@ Tudo testado em mais de 58 Servidores diferentes entre projetos Free e Privados 
 
 ```
 Telefone (Ligações)
-WhatsApp (Chat / Vóz / Video)
-Discord (Chat / Vóz / Video)
-Telegram (Chat / Vóz / Video)
-DevTeam AppHelp (Chat / Vóz / Video)  
+WhatsApp (Chat / Voz / Video)
+Discord (Chat / Voz / Video)
+Telegram (Chat / Voz / Video)
+DevTeam AppHelp (Chat / Voz / Video)  
 E-mail (Texto)  
 LogMeIn (Acesso Remoto / Chat)  
 Team Viewer (Acesso Remoto / Chat)
