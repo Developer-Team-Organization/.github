@@ -54,6 +54,10 @@
 
 ✔️ Projetos e Serviços 100% Compatíveis com Projetos L2JAVA;
 
+:white_check_mark:	Projetos Livre de Bugs;
+
+:white_check_mark:	Quests e Eventos 100% Funcionais;
+
 ✔️ Projetos e Serviços 100% Compatíveis com Todas as Crônicas existentes de Lineage 2;
 
 ☑️ Projetos e Serviços 100% Multi Language: Português / Ingês / Espanhol / Russo;
