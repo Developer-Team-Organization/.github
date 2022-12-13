@@ -54,6 +54,8 @@
 
 ✔️ Projetos e Serviços 100% Compatíveis com Projetos L2JAVA;
 
+✔️ Projetos e Serviços 100% Compatíveis com Projetos L2J[(Kotlin)](https://kotlinlang.org/);
+
 :white_check_mark:	Projetos Livre de Bugs;
 
 :white_check_mark:	Quests e Eventos 100% Funcionais;
@@ -96,11 +98,13 @@ Você também poderá Criar ou Modificar toda a física do seu servidor de uma f
 
 ✨	Desenvolvimento de Servidores Completos L2JAVA;
 
-✨	Integração real de sistema NFT em Servidores L2OFF e L2JAVA;
+✨	Desenvolvimento de Servidores Completos L2J[(Kotlin)](https://kotlinlang.org/);
 
-✨	Integração de Crypto Wallets em Servidores L2OFF e L2JAVA;
+✨	Integração real de sistema NFT em Servidores L2OFF, L2JAVA e L2J[(Kotlin)](https://kotlinlang.org/);
 
-✨	Integração de Smart Contracts em Servidores L2OFF e L2JAVA;
+✨	Integração de Crypto Wallets em Servidores L2OFF, L2JAVA e L2J[(Kotlin)](https://kotlinlang.org/);
+
+✨	Integração de Smart Contracts em Servidores L2OFF, L2JAVA e L2J[(Kotlin)](https://kotlinlang.org/);
 
 ✨	Desenvolvimento de Launchers Updater;
 
