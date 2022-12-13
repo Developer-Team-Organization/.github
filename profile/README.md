@@ -257,7 +257,7 @@ Sendo assim, cada contrato de Licença de Uso de cada um de nossos Clientes é a
 
 <h3 align="center">
 
-## 📃	Smart Contracts 📃
+## [📃	Smart Contracts 📃](https://github.com/Developer-Team-Organization/solidity-ethereum-smart-contract)
 
 <img align="center" alt="Js" height="205" width="300" src="https://user-images.githubusercontent.com/119512126/206209186-931405cf-830e-4cb8-9769-8d6e049c9ed1.png">
 
@@ -272,19 +272,19 @@ Sendo assim, cada contrato de Licença de Uso de cada um de nossos Clientes é a
 
 </div>
 
-💠	Contratos de Membros;
+💠	[Contratos de Membros;](https://github.com/Developer-Team-Organization/solidity-ethereum-smart-contract)
   
-💠	Licenças de Uso;
+💠	[Licenças de Uso;](https://github.com/Developer-Team-Organization/solidity-ethereum-smart-contract)
   
-💠	Contratos de Prestação de Suporte;
+💠	[Contratos de Prestação de Suporte;](https://github.com/Developer-Team-Organization/solidity-ethereum-smart-contract)
   
-💠	Contratos de Prestação de Serviços;
+💠	[Contratos de Prestação de Serviços;](https://github.com/Developer-Team-Organization/solidity-ethereum-smart-contract)
   
-💠	Contratos de Parceria;
+💠	[Contratos de Parceria;](https://github.com/Developer-Team-Organization/solidity-ethereum-smart-contract)
   
-💠	Contratos de Colaborador;
+💠	[Contratos de Colaborador;](https://github.com/Developer-Team-Organization/solidity-ethereum-smart-contract)
   
-💠	Comprovante de contribuições Donativas;
+💠	[Comprovante de contribuições Donativas;](https://github.com/Developer-Team-Organization/solidity-ethereum-smart-contract)
 
 <div align="center">
 <br><br> 
