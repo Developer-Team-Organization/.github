@@ -105,19 +105,19 @@ totalmente simplificada.
 
 ✨	Desenvolvimento de Servidores Completos L2OFF;
 
-✨	Desenvolvimento de Servidores Completos L2JAVA;
+✨	Desenvolvimento de Servidores Completos L2JAVA - [(Built with Java)](https://www.java.com/);
 
-✨	Desenvolvimento de Servidores Completos L2J[(Kotlin)](https://kotlinlang.org/);
+✨	Desenvolvimento de Servidores Completos L2JAVA - [(Built with Kotlin)](https://kotlinlang.org/);
 
 ✨	Customização de Clientes(Todas as Crônicas);
 
 ✨	Tradução Completa de Clientes(Todas as Crônicas);
 
-✨	Integração real de sistema NFT em Servidores L2OFF, L2JAVA e L2J[(Kotlin)](https://kotlinlang.org/);
+✨	Integração real de sistema NFT em Servidores L2OFF, L2JAVA e L2JAVA[(Kotlin)](https://kotlinlang.org/);
 
-✨	Integração de Crypto Wallets em Servidores L2OFF, L2JAVA e L2J[(Kotlin)](https://kotlinlang.org/);
+✨	Integração de Crypto Wallets em Servidores L2OFF, L2JAVA e L2JAVA[(Kotlin)](https://kotlinlang.org/);
 
-✨	Integração de Smart Contracts em Servidores L2OFF, L2JAVA e L2J[(Kotlin)](https://kotlinlang.org/);
+✨	Integração de Smart Contracts em Servidores L2OFF, L2JAVA e L2JAVA[(Kotlin)](https://kotlinlang.org/);
 
 ✨	Desenvolvimento de Launchers Updater;
 
