@@ -69,7 +69,8 @@
 ☑️ Projetos e Serviços 100% Multi Language: Português / Ingês / Espanhol / Russo;
 
 ```
-Tudo testado em mais de 58 Servidores diferentes entre projetos Free e Privados antes mesmo de serem comercializados;
+Tudo testado em mais de 58 Servidores diferentes entre projetos
+Free e Privados antes mesmo de serem comercializados;
 ```
 
 <br>
@@ -83,13 +84,17 @@ Tudo testado em mais de 58 Servidores diferentes entre projetos Free e Privados 
 <h4>:gear: DT Engine</h4>
 
 ```
-Com nossa DT Engine você pode realizar criações e modificações no seu servidor sem a necessidade de acessar a Source;
+Com nossa DT Engine você pode realizar criações e modificações
+no seu servidor sem a necessidade de acessar a Source.
 
-Você mesmo poderá realizar a Criação de Novos Mods, Customizações e Eventos exatamente do jeito que você sempre quis;
+Você mesmo poderá realizar a Criação de Novos Mods, Customizações
+e Eventos exatamente do jeito que você sempre quis.
 
-Com a DT Engine você também poderá modificar qualquer Mod, Quest, Evento, Proteção ou Comando já existenta no servidor;
+Com a DT Engine você também poderá modificar qualquer Mod, Quest, Evento,
+Proteção ou Comando já existenta no servidor.
 
-Você também poderá Criar ou Modificar toda a física do seu servidor de uma forma totalmente simplificada;
+Você também poderá Criar ou Modificar toda a física do seu servidor de uma forma
+totalmente simplificada.
 ```
 
 <br>
@@ -227,7 +232,8 @@ AnyDesk (Acesso Remoto / Chat);
 :money_with_wings:	Reembolso Rápido;
   
 ```
-  Após o cancelamento você receberá seu dinheiro de volta em até 24 horas em qualquer Conta Bancária ou Pix informado;
+  Após o cancelamento você receberá seu dinheiro de volta em até 24 horas
+  em qualquer Conta Bancária ou Pix informado;
 ```
 
 <img align="center" alt="Js" height="252" width="596" src="https://user-images.githubusercontent.com/119512126/206206507-b11c2164-88e4-436e-8a37-86485b742993.png">
@@ -243,7 +249,7 @@ AnyDesk (Acesso Remoto / Chat);
 Todos os nossos Projetos, Sistemas e Serviços são 100% Protegidos graças a nossa parceira [Pro-Managed](https://pro-managed.com/ddos_protection) que fornece total proteção para todos os nossos Projetos, Sistemas e Serviços oferecidos;
   
 ```
-  🛡️ 100% Protegido contra qualquer tipo de tentativa de Ataques, Alterações, Manipulações ou Interferências;
+100% Protegido contra qualquer tipo de tentativa de Ataques, Alterações, Manipulações ou Interferências
 ```
 
 <br>
@@ -256,8 +262,8 @@ Todos os nossos Projetos, Sistemas e Serviços são 100% Protegidos graças a no
 <strong> * *Não fazemos uso de sistemas de registros por Keygens ou Cracks por serem facilmente burladas* * </strong>
 
 ```
-Utilizamos a tecnologia Blockchain para gerar sua Licença de Uso através de Smart Contracts na Blockchain da Ethereum;
-Sendo assim, cada contrato de Licença de Uso de cada um de nossos Clientes é absolutamente único e inalterável;  
+Usamos a tecnologia Blockchain para gerar sua Licença através de Smart Contracts na Blockchain da Ethereum
+Assim, cada contrato de Licença de cada um de nossos Clientes é absolutamente único e inalterável
 ```
 
 <p>Além disso também temos o nosso prórpio "Client & Server Authenticator" usado em nossos produtos relacionados a plataforma de Jogos;</p>
@@ -313,7 +319,8 @@ Sendo assim, cada contrato de Licença de Uso de cada um de nossos Clientes é a
 
 ```
 Membro Developer Team:
-Licença Gratuita e Vitalícia de uso para todos os nossos Projetos, Sistemas e Serviços e acesso a todos os Códigos Fontes;
+Licença Gratuita e Vitalícia de uso para todos os nossos Projetos,
+Sistemas e Serviços e acesso a todos os Códigos Fontes;
 ```
 <a href="mailto:members@developerteam.tech" target="_blank"><img align="center" alt="DevTeam" height="29" width="150" src="https://user-images.githubusercontent.com/118836061/205684763-663f2c48-0a4c-4f85-ab53-6671abef669a.gif"></a><br>
 <br>
@@ -325,13 +332,15 @@ Licença de Uso e Suporte Total para os Projetos, Sistemas e Serviços dos quais
 <br><br>
 ```
 Parceiros:
-Licença de Uso e Suporte Total para todos os nossos Projetos, Sistemas e Serviços durante todo o tempo de parceria;
+Licença de Uso e Suporte Total para todos os nossos Projetos,
+Sistemas e Serviços durante todo o tempo de parceria;
 ```
 <a href="mailto:licensepartners@developerteam.tech" target="_blank"><img align="center" alt="DevTeam" height="29" width="150" src="https://user-images.githubusercontent.com/118836061/205709616-33f17ee5-d854-454c-a184-9bd081a985d0.gif"></a>
 <br><br>
 ```
 Colaboradores:
-Licença Gratuita de uso para todos os nossos Projetos, Sistemas e Serviços em que estiver colaborando no Desenvolvimento;
+Licença Gratuita de uso para todos os nossos Projetos,
+Sistemas e Serviços em que estiver colaborando no Desenvolvimento;
 ```
 <a href="mailto:licensecollaborators@developerteam.tech" target="_blank"><img align="center" alt="DevTeam" height="29" width="150" src="https://user-images.githubusercontent.com/118836061/205709639-2ec14252-a06e-4e2f-9b94-4e93da16a0e0.gif"></a>
 <br><br>
@@ -343,7 +352,8 @@ Faça como vários outros apoiadores que tem ajudado a Developer Team com doaç�
 80% do valor doado é destinado a 8 Causas Sociais ou de Caridade, a fim de tornar a vida de pessoas melhor
 e também o mundo um lugar melhor;
 
-Atualmente contamos com uma média de 37 a 51 doações mensais com valores que variam entre R$ 13,00 e R$217,00 Reais;
+Atualmente contamos com uma média de 37 a 51 doações mensais
+com valores que variam entre R$ 13,00 e R$217,00 Reais;
 Faça parte você também e ajude-nos a construir o futuro;
 
 Licença Gratuita de 30 Dias de uso para todos os nossos Projetos, Sistemas e Serviços(Opcional);
