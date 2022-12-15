@@ -103,21 +103,21 @@ totalmente simplificada.
 
 ✨	[DevTeam L2 Interface Official;](https://github.com/Developer-Team-Organization/DevTeam-L2-Interface)
 
-✨	Desenvolvimento de Servidores Completos L2OFF;
+✨	Desenvolvimento de Servidores Completos [L2OFF](https://github.com/Developer-Team-Organization/L2OFF_Servers_Developer_Team);
 
-✨	Desenvolvimento de Servidores Completos L2JAVA - [(Built with Java)](https://www.java.com/);
+✨	Desenvolvimento de Servidores Completos [L2JAVA](https://github.com/Developer-Team-Organization/L2Java_Servers_Developer_Team) - [(Built with Java)](https://www.java.com/);
 
-✨	Desenvolvimento de Servidores Completos L2JAVA - [(Built with Kotlin)](https://kotlinlang.org/);
+✨	Desenvolvimento de Servidores Completos [L2Java](https://github.com/Developer-Team-Organization/L2Java-Kotlin_Servers_Developer_Team) - [(Built with Kotlin)](https://kotlinlang.org/);
 
 ✨	Customização de Clientes(Todas as Crônicas);
 
 ✨	Tradução Completa de Clientes(Todas as Crônicas);
 
-✨	Integração real de sistema NFT em Servidores L2OFF, L2JAVA e L2JAVA[(Kotlin)](https://kotlinlang.org/);
+✨	Integração real de sistema NFT em Servidores [L2OFF](https://github.com/Developer-Team-Organization/L2OFF_Servers_Developer_Team), [L2JAVA](https://github.com/Developer-Team-Organization/L2Java_Servers_Developer_Team) e [L2Java](https://github.com/Developer-Team-Organization/L2Java-Kotlin_Servers_Developer_Team)[(Kotlin)](https://kotlinlang.org/);
 
-✨	Integração de Crypto Wallets em Servidores L2OFF, L2JAVA e L2JAVA[(Kotlin)](https://kotlinlang.org/);
+✨	Integração de Crypto Wallets em Servidores [L2OFF](https://github.com/Developer-Team-Organization/L2OFF_Servers_Developer_Team), [L2JAVA](https://github.com/Developer-Team-Organization/L2Java_Servers_Developer_Team) e [L2Java](https://github.com/Developer-Team-Organization/L2Java-Kotlin_Servers_Developer_Team)[(Kotlin)](https://kotlinlang.org/);
 
-✨	Integração de Smart Contracts em Servidores L2OFF, L2JAVA e L2JAVA[(Kotlin)](https://kotlinlang.org/);
+✨	Integração de Smart Contracts em Servidores [L2OFF](https://github.com/Developer-Team-Organization/L2OFF_Servers_Developer_Team), [L2JAVA](https://github.com/Developer-Team-Organization/L2Java_Servers_Developer_Team) e [L2Java](https://github.com/Developer-Team-Organization/L2Java-Kotlin_Servers_Developer_Team)[(Kotlin)](https://kotlinlang.org/);
 
 ✨	Desenvolvimento de Launchers Updater;
 
