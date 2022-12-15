@@ -56,7 +56,7 @@
 
 ✔️ Projetos e Serviços 100% Compatíveis com [Projetos L2OFF](https://github.com/Developer-Team-Organization/L2OFF_Servers_Developer_Team);
 
-✔️ Projetos e Serviços 100% Compatíveis com [Projetos L2JAVA](https://github.com/Developer-Team-Organization/L2Java_Servers_Developer_Team); - [(Built with Java)](https://www.java.com//);
+✔️ Projetos e Serviços 100% Compatíveis com [Projetos L2JAVA](https://github.com/Developer-Team-Organization/L2Java_Servers_Developer_Team); - [(Built with Java)](https://www.java.com/);
 
 ✔️ Projetos e Serviços 100% Compatíveis com [Projetos L2Java](https://github.com/Developer-Team-Organization/L2Java-Kotlin_Servers_Developer_Team) - [(Built with Kotlin)](https://kotlinlang.org/);
 
@@ -108,6 +108,10 @@ totalmente simplificada.
 ✨	Desenvolvimento de Servidores Completos L2JAVA;
 
 ✨	Desenvolvimento de Servidores Completos L2J[(Kotlin)](https://kotlinlang.org/);
+
+✨	Customização de Clientes(Todas as Crônicas);
+
+✨	Tradução Completa de Clientes(Todas as Crônicas);
 
 ✨	Integração real de sistema NFT em Servidores L2OFF, L2JAVA e L2J[(Kotlin)](https://kotlinlang.org/);
 
