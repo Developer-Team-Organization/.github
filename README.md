@@ -91,7 +91,7 @@ Você mesmo poderá realizar a Criação de Novos Mods, Customizações
 e Eventos exatamente do jeito que você sempre quis.
 
 Com a DT Engine você também poderá modificar qualquer Mod, Quest, Evento,
-Proteção ou Comando já existenta no servidor.
+Proteção ou Comando já existente no servidor.
 
 Você também poderá Criar ou Modificar toda a física do seu servidor de uma forma
 totalmente simplificada.
