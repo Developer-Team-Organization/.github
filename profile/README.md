@@ -17,6 +17,8 @@
 ✨	Desenvolvimento Web
   
 ✨	Desenvolvimento Mobile
+
+✨	Desenvolvimento de Lojas Virtuais / E-Commerce
   
 ✨	Desenvolvimento de Plataformas, Sistemas e APIs
   
