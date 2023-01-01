@@ -326,28 +326,41 @@ Membro Developer Team:
 Licença Gratuita e Vitalícia de uso para todos os nossos Projetos,
 Sistemas e Serviços e acesso a todos os Códigos Fontes;
 ```
-<a href="mailto:members@developerteam.tech" target="_blank"><img align="center" alt="DevTeam" height="29" width="150" src="https://user-images.githubusercontent.com/118836061/205684763-663f2c48-0a4c-4f85-ab53-6671abef669a.gif"></a><br>
+<img align="center" alt="DevTeam" height="11" width="34" src="https://user-images.githubusercontent.com/8391493/210186815-9cdb664a-7a2f-4373-b017-2e49b88b2e8f.gif">
+<a href="mailto:members@developerteam.tech" target="_blank"><img align="center" alt="DevTeam" height="29" width="150" src="https://user-images.githubusercontent.com/118836061/205684763-663f2c48-0a4c-4f85-ab53-6671abef669a.gif"></a>
+<img align="center" alt="DevTeam" height="11" width="34" src="https://user-images.githubusercontent.com/8391493/210186816-d4d021e9-4eb8-4dee-b63e-b216e2c2354a.gif">
 <br>
+<br>
+
 ```
 Licença de Usuário:
 Licença de Uso e Suporte Total para os Projetos, Sistemas e Serviços dos quais adquirir;
 ```
+<img align="center" alt="DevTeam" height="11" width="34" src="https://user-images.githubusercontent.com/8391493/210186815-9cdb664a-7a2f-4373-b017-2e49b88b2e8f.gif">
 <a href="mailto:licenseusers@developerteam.tech" target="_blank"><img align="center" alt="DevTeam" height="29" width="150" src="https://user-images.githubusercontent.com/118836061/205709588-d9a27896-f298-494b-8245-d2ca28323614.gif"></a>
+<img align="center" alt="DevTeam" height="11" width="34" src="https://user-images.githubusercontent.com/8391493/210186816-d4d021e9-4eb8-4dee-b63e-b216e2c2354a.gif">
 <br><br>
+
 ```
 Parceiros:
 Licença de Uso e Suporte Total para todos os nossos Projetos,
 Sistemas e Serviços durante todo o tempo de parceria;
 ```
+<img align="center" alt="DevTeam" height="11" width="34" src="https://user-images.githubusercontent.com/8391493/210186815-9cdb664a-7a2f-4373-b017-2e49b88b2e8f.gif">
 <a href="mailto:licensepartners@developerteam.tech" target="_blank"><img align="center" alt="DevTeam" height="29" width="150" src="https://user-images.githubusercontent.com/118836061/205709616-33f17ee5-d854-454c-a184-9bd081a985d0.gif"></a>
+<img align="center" alt="DevTeam" height="11" width="34" src="https://user-images.githubusercontent.com/8391493/210186816-d4d021e9-4eb8-4dee-b63e-b216e2c2354a.gif">
 <br><br>
+
 ```
 Colaboradores:
 Licença Gratuita de uso para todos os nossos Projetos,
 Sistemas e Serviços em que estiver colaborando no Desenvolvimento;
 ```
+<img align="center" alt="DevTeam" height="11" width="34" src="https://user-images.githubusercontent.com/8391493/210186815-9cdb664a-7a2f-4373-b017-2e49b88b2e8f.gif">
 <a href="mailto:licensecollaborators@developerteam.tech" target="_blank"><img align="center" alt="DevTeam" height="29" width="150" src="https://user-images.githubusercontent.com/118836061/205709639-2ec14252-a06e-4e2f-9b94-4e93da16a0e0.gif"></a>
+<img align="center" alt="DevTeam" height="11" width="34" src="https://user-images.githubusercontent.com/8391493/210186816-d4d021e9-4eb8-4dee-b63e-b216e2c2354a.gif">
 <br><br>
+
 ```
 Doadores:
 
@@ -363,10 +376,12 @@ Faça parte você também e ajude-nos a construir o futuro;
 Licença Gratuita de 30 Dias de uso para todos os nossos Projetos, Sistemas e Serviços(Opcional);
 Limitado a 3 Projetos, Sistemas ou Serviços por Doação(Opcional);
 ```
-<a href="mailto:donatioshelp@developerteam.tech" target="_blank"><img align="center" alt="DevTeam" height="29" width="150" src="https://user-images.githubusercontent.com/118836061/205709664-d6fa3167-bec9-4d1a-adb9-2cec85ca8cac.gif"></a><br>
+<img align="center" alt="DevTeam" height="11" width="34" src="https://user-images.githubusercontent.com/8391493/210186815-9cdb664a-7a2f-4373-b017-2e49b88b2e8f.gif">
+<a href="mailto:donatioshelp@developerteam.tech" target="_blank"><img align="center" alt="DevTeam" height="29" width="150" src="https://user-images.githubusercontent.com/118836061/205709664-d6fa3167-bec9-4d1a-adb9-2cec85ca8cac.gif"></a>
+<img align="center" alt="DevTeam" height="11" width="34" src="https://user-images.githubusercontent.com/8391493/210186816-d4d021e9-4eb8-4dee-b63e-b216e2c2354a.gif"><br>
 <br>
 <br>
-  
+
 Ou para mais informações, [Contate-nos](mailto:costumerhelp@developerteam.tech).
 <br>
 
