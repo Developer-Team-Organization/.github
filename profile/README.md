@@ -331,6 +331,8 @@ Sistemas e Serviços e acesso a todos os Códigos Fontes;
 <img align="center" alt="DevTeam" height="11" width="34" src="https://user-images.githubusercontent.com/8391493/210186816-d4d021e9-4eb8-4dee-b63e-b216e2c2354a.gif">
 <br>
 <br>
+<br>
+<br>
 
 ```
 Licença de Usuário:
@@ -340,6 +342,8 @@ Licença de Uso e Suporte Total para os Projetos, Sistemas e Serviços dos quais
 <a href="mailto:licenseusers@developerteam.tech" target="_blank"><img align="center" alt="DevTeam" height="29" width="150" src="https://user-images.githubusercontent.com/118836061/205709588-d9a27896-f298-494b-8245-d2ca28323614.gif"></a>
 <img align="center" alt="DevTeam" height="11" width="34" src="https://user-images.githubusercontent.com/8391493/210186816-d4d021e9-4eb8-4dee-b63e-b216e2c2354a.gif">
 <br><br>
+<br>
+<br>
 
 ```
 Parceiros:
@@ -350,6 +354,8 @@ Sistemas e Serviços durante todo o tempo de parceria;
 <a href="mailto:licensepartners@developerteam.tech" target="_blank"><img align="center" alt="DevTeam" height="29" width="150" src="https://user-images.githubusercontent.com/118836061/205709616-33f17ee5-d854-454c-a184-9bd081a985d0.gif"></a>
 <img align="center" alt="DevTeam" height="11" width="34" src="https://user-images.githubusercontent.com/8391493/210186816-d4d021e9-4eb8-4dee-b63e-b216e2c2354a.gif">
 <br><br>
+<br>
+<br>
 
 ```
 Colaboradores:
@@ -360,6 +366,9 @@ Sistemas e Serviços em que estiver colaborando no Desenvolvimento;
 <a href="mailto:licensecollaborators@developerteam.tech" target="_blank"><img align="center" alt="DevTeam" height="29" width="150" src="https://user-images.githubusercontent.com/118836061/205709639-2ec14252-a06e-4e2f-9b94-4e93da16a0e0.gif"></a>
 <img align="center" alt="DevTeam" height="11" width="34" src="https://user-images.githubusercontent.com/8391493/210186816-d4d021e9-4eb8-4dee-b63e-b216e2c2354a.gif">
 <br><br>
+<br>
+<br>
+<br>
 
 ```
 Doadores:
