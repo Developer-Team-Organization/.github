@@ -216,10 +216,17 @@ AnyDesk (Acesso Remoto / Chat);
 
 <img align="center" alt="Js" height="157" width="180" src="https://user-images.githubusercontent.com/119512126/206185241-c374e46c-eecd-40aa-bb95-8ba8887b6301.png">
 
-  
 :heavy_check_mark:	Válido para todos os nossos Produtos e Serviços;
 
 :heavy_check_mark:	Reembolso Total do seu dinheiro;
+
+:credit_card:	Parcelamento em até 12 vezes;
+  
+```
+  Pix, Paypal, Pagseguro, Mercado pago, Pagar.me, Neteller, G.Skill, Moip, Nuvem Pago,
+  PagHiper, Addi, PicPay, PayU, Cielo, Galax Pay, Pagamento Express, Depósitos e Transferências.
+```
+  
 
 :calendar:	30 Dias de garantia;
   
