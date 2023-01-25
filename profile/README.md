@@ -397,8 +397,16 @@ Limitado a 3 Projetos, Sistemas ou Serviços por Doação(Opcional);
 <img align="center" alt="DevTeam" height="11" width="34" src="https://user-images.githubusercontent.com/8391493/210186816-d4d021e9-4eb8-4dee-b63e-b216e2c2354a.gif"><br>
 <br>
 <br>
+<br>
+<br>
+<br>
 
-Ou para mais informações, [Contate-nos](mailto:costumerhelp@developerteam.tech).
+Ou para mais informações, <br>
+entre em contato conosco enviando seu projeto para desenvolvimento: [costumerhelp@developerteam.tech](mailto:costumerhelp@developerteam.tech).
+<br>
+<br>
+<br>
+<br>
 <br>
 
 
