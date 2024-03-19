@@ -4,9 +4,7 @@
 
 # <p align="center">Welcome to the Developer Team's Github! :coffee: </p>
 
-<h3 align="center">Visite nossa Github Page:<br>
-<a href="https://developer-team-organization.github.io/" target="_blank"><img src="https://user-images.githubusercontent.com/8391493/206624051-435046b9-0517-4dbe-8d76-d291bda066b1.png" target="_blank" align="center" height="143" width="312"></a></h2>
-<br><br>
+<br>
 <div align="center">
 
 ## 💼	Serviços Developer Team :briefcase:	
@@ -76,28 +74,62 @@ Free e Privados antes mesmo de serem comercializados;
 <br>
 <div align="center">
 <h3 align="center">
+<br>
+  
+## 💼	Serviços 💼
 
-### 💼	Serviços 💼
+</h3></div></div><br><br>
 
-</h3></div></div>
-
-<h4>:gear: DT Engine</h4>
+# <p align="center">:gear: Developer Team Artificial Intelligence Engine</h4> </p>
+### <p align="center"> Inteligência Artificial para seu Servidor? </h4> </p>
 
 ```
-Com nossa DT Engine você pode realizar criações e modificações
-no seu servidor sem a necessidade de acessar a Source.
+Que tal um software de inteligência artificial para seu servidor?
+
+A qual além de lhe ajudar a realizar QUALQUER tarefa no seu projeto,
+também poderá lhe auxiliar com dicas e tutoriais, podendo até mesmo
+lhe ensinar o que você precisar e quiser saber, não só sobre como
+construir seu servidor, como também poderá lhe explicar o funcionamento
+de tudo que existe nele, desde a função de cada tipo de configuração,
+e até mesmo lhe ensinar sobre o que é, como funcione e como usar
+qualquer Skill, Buff e tudo mais!
+
+Criada com base no Chat GPT, com a nossa DT AI Engine você poderá
+realizar criações e modificações no seu servidor sem a necessidade
+de precisar acessar a sua Source do projeto e perder horas adicionando
+diversos códigos na fonte do servidor, pois ela fará tudo rápida e
+automaticamente, corrigindo qualquer erro e adaptando corretamente ao seu projeto.
+
+Você pode até mesmo conversar com ela exatamente como no próprio Chat GPT!
 
 Você mesmo poderá realizar a Criação de Novos Mods, Customizações
 e Eventos exatamente do jeito que você sempre quis.
 
-Com a DT Engine você também poderá modificar qualquer Mod, Quest, Evento,
+Com a DT AI Engine você também poderá modificar qualquer Mod, Quest, Evento,
 Proteção ou Comando já existente no servidor.
 
 Você também poderá Criar ou Modificar toda a física do seu servidor de uma forma
 totalmente simplificada.
+
+
+E tem mais!
+
+Além de possuir livre acesso a modificação de 100% do Servidor e Cliente do seu
+projeto, ela ainda possui uma sessão de aprendizado, onde você pode ensinar ela
+a realizar tarefas para você.
+
+A DT AI Engine ainda possui um Subsistema onde você poderá configurá-la para que
+ela funcione Online no seu Servidor, como um suporte onde seus Players poderão
+chamá-la para pedir ajuda para tudo o que você quiser disponibilizar, como tutoriais
+para novos Players, dicas de localizações, e até mesmo poderá fazer com que ela faça
+confirmações de e entregas de doações automaticamente sem que você precise fazer nada!
+
+Totalmente funcional e adaptável para TODAS as Cronicas,
+não se limitando apenas aos projetos da Developer Team,
+ela é 100% funcional para qualquer projeto que você tenha.
 ```
 
-<br>
+<br><br><br><br>
 
 ✨	[DevTeam Battle Tournament System;](https://github.com/Developer-Team-Organization/Battle-Tournament-System_DevTeam_v4.7.2)
 
@@ -216,10 +248,17 @@ AnyDesk (Acesso Remoto / Chat);
 
 <img align="center" alt="Js" height="157" width="180" src="https://user-images.githubusercontent.com/119512126/206185241-c374e46c-eecd-40aa-bb95-8ba8887b6301.png">
 
-  
 :heavy_check_mark:	Válido para todos os nossos Produtos e Serviços;
 
 :heavy_check_mark:	Reembolso Total do seu dinheiro;
+
+:credit_card:	Parcelamento em até 12 vezes;
+  
+```
+  Pix, Paypal, Pagseguro, Mercado pago, Pagar.me, Neteller, G.Skill, Moip, Nuvem Pago,
+  PagHiper, Addi, PicPay, PayU, Cielo, Galax Pay, Pagamento Express, Depósitos e Transferências.
+```
+  
 
 :calendar:	30 Dias de garantia;
   
@@ -326,28 +365,50 @@ Membro Developer Team:
 Licença Gratuita e Vitalícia de uso para todos os nossos Projetos,
 Sistemas e Serviços e acesso a todos os Códigos Fontes;
 ```
-<a href="mailto:members@developerteam.tech" target="_blank"><img align="center" alt="DevTeam" height="29" width="150" src="https://user-images.githubusercontent.com/118836061/205684763-663f2c48-0a4c-4f85-ab53-6671abef669a.gif"></a><br>
+<img align="center" alt="DevTeam" height="11" width="34" src="https://user-images.githubusercontent.com/8391493/210186815-9cdb664a-7a2f-4373-b017-2e49b88b2e8f.gif">
+<a href="mailto:developerteamcontact@proton.me" target="_blank"><img align="center" alt="DevTeam" height="29" width="150" src="https://user-images.githubusercontent.com/118836061/205684763-663f2c48-0a4c-4f85-ab53-6671abef669a.gif"></a>
+<img align="center" alt="DevTeam" height="11" width="34" src="https://user-images.githubusercontent.com/8391493/210186816-d4d021e9-4eb8-4dee-b63e-b216e2c2354a.gif">
 <br>
+<br>
+<br>
+<br>
+
 ```
 Licença de Usuário:
 Licença de Uso e Suporte Total para os Projetos, Sistemas e Serviços dos quais adquirir;
 ```
-<a href="mailto:licenseusers@developerteam.tech" target="_blank"><img align="center" alt="DevTeam" height="29" width="150" src="https://user-images.githubusercontent.com/118836061/205709588-d9a27896-f298-494b-8245-d2ca28323614.gif"></a>
+<img align="center" alt="DevTeam" height="11" width="34" src="https://user-images.githubusercontent.com/8391493/210186815-9cdb664a-7a2f-4373-b017-2e49b88b2e8f.gif">
+<a href="mailto:developerteamcontact@proton.me" target="_blank"><img align="center" alt="DevTeam" height="29" width="150" src="https://user-images.githubusercontent.com/118836061/205709588-d9a27896-f298-494b-8245-d2ca28323614.gif"></a>
+<img align="center" alt="DevTeam" height="11" width="34" src="https://user-images.githubusercontent.com/8391493/210186816-d4d021e9-4eb8-4dee-b63e-b216e2c2354a.gif">
 <br><br>
+<br>
+<br>
+
 ```
 Parceiros:
 Licença de Uso e Suporte Total para todos os nossos Projetos,
 Sistemas e Serviços durante todo o tempo de parceria;
 ```
-<a href="mailto:licensepartners@developerteam.tech" target="_blank"><img align="center" alt="DevTeam" height="29" width="150" src="https://user-images.githubusercontent.com/118836061/205709616-33f17ee5-d854-454c-a184-9bd081a985d0.gif"></a>
+<img align="center" alt="DevTeam" height="11" width="34" src="https://user-images.githubusercontent.com/8391493/210186815-9cdb664a-7a2f-4373-b017-2e49b88b2e8f.gif">
+<a href="mailto:developerteamcontact@proton.me" target="_blank"><img align="center" alt="DevTeam" height="29" width="150" src="https://user-images.githubusercontent.com/118836061/205709616-33f17ee5-d854-454c-a184-9bd081a985d0.gif"></a>
+<img align="center" alt="DevTeam" height="11" width="34" src="https://user-images.githubusercontent.com/8391493/210186816-d4d021e9-4eb8-4dee-b63e-b216e2c2354a.gif">
 <br><br>
+<br>
+<br>
+
 ```
 Colaboradores:
 Licença Gratuita de uso para todos os nossos Projetos,
 Sistemas e Serviços em que estiver colaborando no Desenvolvimento;
 ```
-<a href="mailto:licensecollaborators@developerteam.tech" target="_blank"><img align="center" alt="DevTeam" height="29" width="150" src="https://user-images.githubusercontent.com/118836061/205709639-2ec14252-a06e-4e2f-9b94-4e93da16a0e0.gif"></a>
+<img align="center" alt="DevTeam" height="11" width="34" src="https://user-images.githubusercontent.com/8391493/210186815-9cdb664a-7a2f-4373-b017-2e49b88b2e8f.gif">
+<a href="mailto:developerteamcontact@proton.me" target="_blank"><img align="center" alt="DevTeam" height="29" width="150" src="https://user-images.githubusercontent.com/118836061/205709639-2ec14252-a06e-4e2f-9b94-4e93da16a0e0.gif"></a>
+<img align="center" alt="DevTeam" height="11" width="34" src="https://user-images.githubusercontent.com/8391493/210186816-d4d021e9-4eb8-4dee-b63e-b216e2c2354a.gif">
 <br><br>
+<br>
+<br>
+<br>
+
 ```
 Doadores:
 
@@ -363,11 +424,21 @@ Faça parte você também e ajude-nos a construir o futuro;
 Licença Gratuita de 30 Dias de uso para todos os nossos Projetos, Sistemas e Serviços(Opcional);
 Limitado a 3 Projetos, Sistemas ou Serviços por Doação(Opcional);
 ```
-<a href="mailto:donatioshelp@developerteam.tech" target="_blank"><img align="center" alt="DevTeam" height="29" width="150" src="https://user-images.githubusercontent.com/118836061/205709664-d6fa3167-bec9-4d1a-adb9-2cec85ca8cac.gif"></a><br>
+<img align="center" alt="DevTeam" height="11" width="34" src="https://user-images.githubusercontent.com/8391493/210186815-9cdb664a-7a2f-4373-b017-2e49b88b2e8f.gif">
+<a href="mailto:developerteamcontact@proton.me" target="_blank"><img align="center" alt="DevTeam" height="29" width="150" src="https://user-images.githubusercontent.com/118836061/205709664-d6fa3167-bec9-4d1a-adb9-2cec85ca8cac.gif"></a>
+<img align="center" alt="DevTeam" height="11" width="34" src="https://user-images.githubusercontent.com/8391493/210186816-d4d021e9-4eb8-4dee-b63e-b216e2c2354a.gif"><br>
 <br>
 <br>
-  
-Ou para mais informações, [Contate-nos](mailto:costumerhelp@developerteam.tech).
+<br>
+<br>
+<br>
+
+Ou para mais informações, <br>
+entre em contato conosco enviando seu projeto para desenvolvimento: [developerteamcontact@proton.me](mailto:developerteamcontact@proton.me).
+<br>
+<br>
+<br>
+<br>
 <br>
 
 
@@ -454,7 +525,7 @@ Ou para mais informações, [Contate-nos](mailto:costumerhelp@developerteam.tech
 </div>
       
 <div><h3><p align="center">
-<a href="https://linktr.ee/DeveloperTeam" target="_blank"><img src="https://d1fdloi71mui9q.cloudfront.net/CgXpaWM2QiCe2NZ2ljzI_K188i9s3WG62EOha" target="_blank" align="center"></a>
+<a href="" target="_blank"><img src="https://d1fdloi71mui9q.cloudfront.net/CgXpaWM2QiCe2NZ2ljzI_K188i9s3WG62EOha" target="_blank" align="center"></a>
 </div>
   
 <div style="display: inline_block">
