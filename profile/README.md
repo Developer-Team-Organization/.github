@@ -14,6 +14,8 @@
 
 ✨	Desenvolvimento Web
   
+✨	Desenvolvimento Web3
+  
 ✨	Desenvolvimento Mobile
 
 ✨	Desenvolvimento de Lojas Virtuais / E-Commerce
