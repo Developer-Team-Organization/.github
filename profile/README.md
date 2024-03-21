@@ -266,7 +266,7 @@ AnyDesk (Acesso Remoto / Chat);
 
 :heavy_check_mark:	Reembolso Total do seu dinheiro;
 
-:credit_card:	Parcelamento em até 12 vezes;
+:credit_card:	Parcelamento em até 24 vezes Sem Juros;
   
 ```
   Pague com Dinheiro:
